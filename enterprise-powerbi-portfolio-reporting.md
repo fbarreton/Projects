@@ -1,6 +1,6 @@
 # 📊 Sales Performance Dashboard — Power BI Analytics Project
 
-![Sales Dashboard Portfolio](https://github.com/fbarreton/Projects/blob/main/Sales_KPI_Dashboard_Data_Storytelling)
+![Sales Dashboard Portfolio](https://github.com/fbarreton/Projects/blob/main/Sales_KPI_Dashboard_Data_Storytelling.png)
 
 ---
 
