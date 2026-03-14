@@ -222,7 +222,7 @@ Typical stages include:
 - Negotiation
 - Deal Won
 
-![Sales Funnel Pipeline](images/sales_funnel_pipeline.png)
+![Sales Funnel Pipeline](https://github.com/fbarreton/Projects/blob/main/Sales_Funnel.png)
 
 ---
 
