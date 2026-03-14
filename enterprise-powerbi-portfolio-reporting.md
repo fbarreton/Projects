@@ -238,7 +238,7 @@ Typical visuals include:
 - Conversion rate by team
 - Trend analysis by month
 
-![Employee Performance Dashboard](images/employee_performance_dashboard_preview.png)
+![Employee Performance Dashboard](https://github.com/fbarreton/Projects/blob/main/Employee_Performance_Dashboard.png)
 
 ---
 
