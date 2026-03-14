@@ -206,7 +206,7 @@ The dashboard uses a **Star Schema data model** optimized for Power BI.
 
 The diagram below illustrates the logical star schema used to connect the fact table with the main dimensions for monthly sales analysis.
 
-![Star Schema Data Model](images/star_schema_data_model.png)
+![Star Schema Data Model](https://github.com/fbarreton/Projects/blob/main/Star_Schemal_Data_Model.png)
 
 ---
 
