@@ -61,7 +61,7 @@ Prior to this solution, reporting relied heavily on **manual spreadsheets**, lim
 
 The Power BI dashboard provides a consolidated view of the company's performance.
 
-![Dashboard Overview](images/dashboard_readme_overview.png)
+![Dashboard Overview](https://github.com/fbarreton/Projects/blob/main/Sales_KPI_Dashboard_Business_Overview.png)
 
 The dashboard allows users to analyze:
 
