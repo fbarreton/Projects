@@ -1,0 +1,39 @@
+SaleID,Date,LeadID,EmployeeID,EmployeeName,DivisionID,DivisionName,SubdivisionID,SubdivisionName,ProductID,ProductName,Amount,DaysToClose
+S0001,2025-11-10,L0006,E105,Charlotte Campbell,D01,Transport Infrastructure,SD01,Roads & Highways,P03,Water Network Upgrade,106901,37
+S0002,2025-07-09,L0007,E101,Harper Carter,D01,Transport Infrastructure,SD01,Roads & Highways,P02,Bridge Inspection,42233,66
+S0003,2025-09-26,L0009,E106,Ella Nelson,D01,Transport Infrastructure,SD02,Bridges & Structures,P06,Project Controls Advisory,161924,52
+S0004,2025-11-23,L0021,E126,Benjamin Allen,D03,Urban Development,SD06,Project Controls,P02,Bridge Inspection,185503,50
+S0005,2025-08-31,L0047,E126,Benjamin Allen,D03,Urban Development,SD06,Project Controls,P06,Project Controls Advisory,70640,34
+S0006,2025-09-10,L0080,E104,David Kim,D01,Transport Infrastructure,SD01,Roads & Highways,P03,Water Network Upgrade,50671,53
+S0007,2025-11-15,L0084,E126,Benjamin Allen,D03,Urban Development,SD06,Project Controls,P02,Bridge Inspection,127606,45
+S0008,2025-04-18,L0090,E117,Harper King,D02,Water & Utilities,SD04,Treatment Plants,P05,Subdivision Planning,107020,49
+S0009,2025-04-19,L0091,E101,Harper Carter,D01,Transport Infrastructure,SD01,Roads & Highways,P04,Treatment Plant Design,45854,50
+S0010,2025-03-12,L0115,E112,James Wright,D02,Water & Utilities,SD03,Water Networks,P05,Subdivision Planning,97995,44
+S0011,2025-05-20,L0125,E114,Ella Gonzalez,D02,Water & Utilities,SD03,Water Networks,P05,Subdivision Planning,179949,24
+S0012,2026-02-16,L0127,E112,James Wright,D02,Water & Utilities,SD03,Water Networks,P01,Road Design Package,128350,53
+S0013,2025-08-25,L0148,E128,Emily Adams,D03,Urban Development,SD06,Project Controls,P01,Road Design Package,159272,43
+S0014,2025-05-07,L0150,E105,Charlotte Campbell,D01,Transport Infrastructure,SD01,Roads & Highways,P05,Subdivision Planning,70387,49
+S0015,2025-06-07,L0204,E115,Grace Young,D02,Water & Utilities,SD03,Water Networks,P04,Treatment Plant Design,125410,27
+S0016,2025-09-24,L0207,E123,Sophia Hill,D03,Urban Development,SD05,Land Development,P02,Bridge Inspection,104106,50
+S0017,2025-04-19,L0233,E105,Charlotte Campbell,D01,Transport Infrastructure,SD01,Roads & Highways,P06,Project Controls Advisory,147229,70
+S0018,2025-12-08,L0238,E130,Sebastian Scott,D03,Urban Development,SD06,Project Controls,P04,Treatment Plant Design,141805,44
+S0019,2025-05-22,L0251,E119,Henry Taylor,D02,Water & Utilities,SD04,Treatment Plants,P03,Water Network Upgrade,103799,32
+S0020,2025-03-23,L0279,E114,Ella Gonzalez,D02,Water & Utilities,SD03,Water Networks,P06,Project Controls Advisory,105306,60
+S0021,2025-10-17,L0282,E122,Sebastian Hernandez,D03,Urban Development,SD05,Land Development,P05,Subdivision Planning,131838,35
+S0022,2026-01-25,L0288,E103,Jack Nelson,D01,Transport Infrastructure,SD01,Roads & Highways,P02,Bridge Inspection,68013,42
+S0023,2025-07-23,L0292,E109,Sophia Hernandez,D01,Transport Infrastructure,SD02,Bridges & Structures,P05,Subdivision Planning,42089,61
+S0024,2025-04-24,L0307,E116,Samuel Carter,D02,Water & Utilities,SD04,Treatment Plants,P01,Road Design Package,71073,27
+S0025,2025-02-27,L0336,E107,Amelia Allen,D01,Transport Infrastructure,SD02,Bridges & Structures,P02,Bridge Inspection,46074,41
+S0026,2025-03-18,L0390,E101,Harper Carter,D01,Transport Infrastructure,SD01,Roads & Highways,P06,Project Controls Advisory,148689,45
+S0027,2025-07-17,L0395,E116,Samuel Carter,D02,Water & Utilities,SD04,Treatment Plants,P04,Treatment Plant Design,176336,28
+S0028,2025-07-16,L0449,E103,Jack Nelson,D01,Transport Infrastructure,SD01,Roads & Highways,P03,Water Network Upgrade,149466,47
+S0029,2025-12-18,L0451,E106,Ella Nelson,D01,Transport Infrastructure,SD02,Bridges & Structures,P06,Project Controls Advisory,82867,70
+S0030,2025-11-27,L0458,E113,Chloe Campbell,D02,Water & Utilities,SD03,Water Networks,P03,Water Network Upgrade,72495,42
+S0031,2025-04-21,L0467,E105,Charlotte Campbell,D01,Transport Infrastructure,SD01,Roads & Highways,P03,Water Network Upgrade,144173,55
+S0032,2025-09-11,L0501,E102,Daniel Hall,D01,Transport Infrastructure,SD01,Roads & Highways,P03,Water Network Upgrade,170270,50
+S0033,2025-08-30,L0517,E124,Harper Baker,D03,Urban Development,SD05,Land Development,P01,Road Design Package,73083,45
+S0034,2026-02-10,L0550,E124,Harper Baker,D03,Urban Development,SD05,Land Development,P05,Subdivision Planning,53772,50
+S0035,2025-09-08,L0551,E119,Henry Taylor,D02,Water & Utilities,SD04,Treatment Plants,P05,Subdivision Planning,61435,36
+S0036,2025-04-16,L0567,E123,Sophia Hill,D03,Urban Development,SD05,Land Development,P01,Road Design Package,152063,40
+S0037,2025-10-20,L0574,E110,James King,D01,Transport Infrastructure,SD02,Bridges & Structures,P03,Water Network Upgrade,118704,44
+S0038,2026-02-20,L0579,E115,Grace Young,D02,Water & Utilities,SD03,Water Networks,P04,Treatment Plant Design,47818,58

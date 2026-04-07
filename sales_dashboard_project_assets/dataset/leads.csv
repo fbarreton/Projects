@@ -1,0 +1,583 @@
+LeadID,CreatedDate,LeadSource,DivisionID,DivisionName,SubdivisionID,SubdivisionName,AssignedEmployeeID,AssignedEmployeeName,Status,QualifiedDate,ProposalDate,NegotiationDate,ClosedDate,EstimatedValue
+L0001,2025-07-15,Existing Client,D01,Transport Infrastructure,SD01,Roads & Highways,E101,Harper Carter,Lost,2025-07-21,2025-08-11,2025-08-14,2025-09-09,110000
+L0002,2025-02-28,Referral,D02,Water & Utilities,SD03,Water Networks,E113,Chloe Campbell,Proposal,2025-03-12,2025-03-26,,,160000
+L0003,2025-05-31,Existing Client,D03,Urban Development,SD05,Land Development,E121,Daniel Hernandez,Lead,,,,,45000
+L0004,2025-05-15,Existing Client,D03,Urban Development,SD06,Project Controls,E130,Sebastian Scott,Proposal,2025-05-18,2025-05-31,,,110000
+L0005,2025-09-17,Tender Portal,D02,Water & Utilities,SD03,Water Networks,E114,Ella Gonzalez,Lead,,,,,75000
+L0006,2025-10-04,Website,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Won,2025-10-11,2025-10-30,2025-11-02,2025-11-10,110000
+L0007,2025-05-04,Partner Network,D01,Transport Infrastructure,SD01,Roads & Highways,E101,Harper Carter,Won,2025-05-17,2025-06-05,2025-06-10,2025-07-09,45000
+L0008,2025-09-01,Partner Network,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Lead,,,,,110000
+L0009,2025-08-05,Existing Client,D01,Transport Infrastructure,SD02,Bridges & Structures,E106,Ella Nelson,Won,2025-08-18,2025-08-28,2025-09-09,2025-09-26,160000
+L0010,2025-09-22,Referral,D02,Water & Utilities,SD04,Treatment Plants,E120,Lucas Green,Lead,,,,,60000
+L0011,2025-06-23,Tender Portal,D03,Urban Development,SD06,Project Controls,E127,Zoe Hill,Qualified,2025-07-04,,,,60000
+L0012,2025-01-04,Referral,D01,Transport Infrastructure,SD01,Roads & Highways,E104,David Kim,Proposal,2025-01-09,2025-01-15,,,45000
+L0013,2025-06-19,Email Campaign,D01,Transport Infrastructure,SD01,Roads & Highways,E103,Jack Nelson,Qualified,2025-07-01,,,,75000
+L0014,2025-04-20,Partner Network,D02,Water & Utilities,SD03,Water Networks,E114,Ella Gonzalez,Lead,,,,,110000
+L0015,2025-08-31,Referral,D03,Urban Development,SD05,Land Development,E121,Daniel Hernandez,Negotiation,2025-09-08,2025-09-18,2025-09-24,,160000
+L0016,2025-12-04,Email Campaign,D03,Urban Development,SD06,Project Controls,E130,Sebastian Scott,Lead,,,,,90000
+L0017,2025-01-28,Website,D03,Urban Development,SD05,Land Development,E121,Daniel Hernandez,Lead,,,,,135000
+L0018,2025-02-25,Email Campaign,D02,Water & Utilities,SD03,Water Networks,E112,James Wright,Lead,,,,,110000
+L0019,2025-03-13,Tender Portal,D03,Urban Development,SD06,Project Controls,E130,Sebastian Scott,Lead,,,,,90000
+L0020,2025-02-08,Existing Client,D03,Urban Development,SD05,Land Development,E123,Sophia Hill,Negotiation,2025-02-18,2025-02-25,2025-03-01,,160000
+L0021,2025-10-04,Email Campaign,D03,Urban Development,SD06,Project Controls,E126,Benjamin Allen,Won,2025-10-09,2025-10-18,2025-11-03,2025-11-23,160000
+L0022,2025-01-31,Website,D03,Urban Development,SD05,Land Development,E124,Harper Baker,Lead,,,,,90000
+L0023,2025-08-21,Partner Network,D03,Urban Development,SD06,Project Controls,E126,Benjamin Allen,Qualified,2025-09-04,,,,135000
+L0024,2025-12-05,Tender Portal,D03,Urban Development,SD05,Land Development,E125,Emily Allen,Lead,,,,,75000
+L0025,2025-01-30,Referral,D02,Water & Utilities,SD03,Water Networks,E113,Chloe Campbell,Proposal,2025-02-12,2025-02-26,,,45000
+L0026,2025-01-26,Tender Portal,D01,Transport Infrastructure,SD01,Roads & Highways,E103,Jack Nelson,Qualified,2025-02-05,,,,160000
+L0027,2025-01-30,Referral,D01,Transport Infrastructure,SD01,Roads & Highways,E102,Daniel Hall,Lead,,,,,60000
+L0028,2025-11-01,Partner Network,D01,Transport Infrastructure,SD01,Roads & Highways,E101,Harper Carter,Proposal,2025-11-09,2025-11-16,,,60000
+L0029,2025-05-07,Email Campaign,D01,Transport Infrastructure,SD02,Bridges & Structures,E106,Ella Nelson,Qualified,2025-05-10,,,,110000
+L0030,2025-12-03,Tender Portal,D01,Transport Infrastructure,SD02,Bridges & Structures,E107,Amelia Allen,Qualified,2025-12-09,,,,75000
+L0031,2025-12-09,Tender Portal,D01,Transport Infrastructure,SD01,Roads & Highways,E104,David Kim,Lead,,,,,90000
+L0032,2025-12-10,Referral,D03,Urban Development,SD06,Project Controls,E129,Samuel Carter,Qualified,2025-12-13,,,,160000
+L0033,2025-08-23,Website,D03,Urban Development,SD05,Land Development,E122,Sebastian Hernandez,Lost,2025-09-02,2025-09-12,2025-09-23,2025-10-02,45000
+L0034,2025-02-05,Email Campaign,D01,Transport Infrastructure,SD01,Roads & Highways,E103,Jack Nelson,Lead,,,,,60000
+L0035,2025-10-06,Partner Network,D03,Urban Development,SD05,Land Development,E124,Harper Baker,Qualified,2025-10-18,,,,160000
+L0036,2025-01-05,Referral,D02,Water & Utilities,SD03,Water Networks,E114,Ella Gonzalez,Lead,,,,,135000
+L0037,2025-03-10,Existing Client,D02,Water & Utilities,SD04,Treatment Plants,E117,Harper King,Lead,,,,,45000
+L0038,2025-10-11,Tender Portal,D01,Transport Infrastructure,SD01,Roads & Highways,E103,Jack Nelson,Lead,,,,,110000
+L0039,2025-06-25,Email Campaign,D01,Transport Infrastructure,SD02,Bridges & Structures,E109,Sophia Hernandez,Proposal,2025-07-01,2025-07-21,,,160000
+L0040,2025-05-09,Website,D03,Urban Development,SD05,Land Development,E122,Sebastian Hernandez,Lead,,,,,90000
+L0041,2025-01-23,Existing Client,D01,Transport Infrastructure,SD02,Bridges & Structures,E109,Sophia Hernandez,Lead,,,,,60000
+L0042,2025-05-15,Partner Network,D01,Transport Infrastructure,SD02,Bridges & Structures,E110,James King,Proposal,2025-05-28,2025-06-14,,,110000
+L0043,2025-01-05,Tender Portal,D01,Transport Infrastructure,SD02,Bridges & Structures,E110,James King,Lead,,,,,135000
+L0044,2025-10-07,Tender Portal,D02,Water & Utilities,SD04,Treatment Plants,E118,Sophia Allen,Negotiation,2025-10-17,2025-10-25,2025-11-10,,110000
+L0045,2025-01-22,Referral,D02,Water & Utilities,SD04,Treatment Plants,E117,Harper King,Lead,,,,,160000
+L0046,2025-07-03,Partner Network,D01,Transport Infrastructure,SD02,Bridges & Structures,E110,James King,Proposal,2025-07-06,2025-07-21,,,135000
+L0047,2025-07-28,Tender Portal,D03,Urban Development,SD06,Project Controls,E126,Benjamin Allen,Won,2025-08-01,2025-08-10,2025-08-26,2025-08-31,60000
+L0048,2025-07-30,Existing Client,D01,Transport Infrastructure,SD02,Bridges & Structures,E108,Ella Scott,Lead,,,,,160000
+L0049,2025-02-25,Email Campaign,D02,Water & Utilities,SD04,Treatment Plants,E120,Lucas Green,Negotiation,2025-03-06,2025-03-17,2025-03-26,,160000
+L0050,2025-06-29,Existing Client,D02,Water & Utilities,SD03,Water Networks,E112,James Wright,Negotiation,2025-07-04,2025-07-15,2025-07-18,,160000
+L0051,2025-04-09,Referral,D03,Urban Development,SD06,Project Controls,E128,Emily Adams,Lead,,,,,160000
+L0052,2025-05-23,Website,D01,Transport Infrastructure,SD01,Roads & Highways,E101,Harper Carter,Proposal,2025-06-04,2025-06-25,,,90000
+L0053,2025-01-15,Referral,D03,Urban Development,SD06,Project Controls,E127,Zoe Hill,Negotiation,2025-01-19,2025-01-31,2025-02-04,,75000
+L0054,2025-11-02,Website,D01,Transport Infrastructure,SD01,Roads & Highways,E102,Daniel Hall,Lead,,,,,160000
+L0055,2025-08-12,Existing Client,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Lost,2025-08-20,2025-08-30,2025-09-10,2025-09-16,45000
+L0056,2025-08-12,Existing Client,D01,Transport Infrastructure,SD02,Bridges & Structures,E110,James King,Qualified,2025-08-22,,,,160000
+L0057,2025-12-10,Existing Client,D02,Water & Utilities,SD03,Water Networks,E112,James Wright,Lead,,,,,45000
+L0058,2025-06-19,Partner Network,D02,Water & Utilities,SD03,Water Networks,E115,Grace Young,Proposal,2025-07-02,2025-07-15,,,45000
+L0059,2025-06-08,Website,D03,Urban Development,SD06,Project Controls,E129,Samuel Carter,Lead,,,,,135000
+L0060,2025-10-11,Email Campaign,D03,Urban Development,SD05,Land Development,E124,Harper Baker,Lead,,,,,135000
+L0061,2025-12-13,Partner Network,D02,Water & Utilities,SD03,Water Networks,E115,Grace Young,Qualified,2025-12-21,,,,75000
+L0062,2025-01-01,Partner Network,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Lead,,,,,90000
+L0063,2025-11-07,Tender Portal,D02,Water & Utilities,SD03,Water Networks,E115,Grace Young,Qualified,2025-11-19,,,,90000
+L0064,2025-09-19,Website,D02,Water & Utilities,SD04,Treatment Plants,E117,Harper King,Negotiation,2025-10-02,2025-10-11,2025-10-16,,160000
+L0065,2025-09-21,Tender Portal,D02,Water & Utilities,SD04,Treatment Plants,E119,Henry Taylor,Lead,,,,,160000
+L0066,2025-12-11,Tender Portal,D02,Water & Utilities,SD03,Water Networks,E115,Grace Young,Lead,,,,,60000
+L0067,2025-01-13,Partner Network,D01,Transport Infrastructure,SD02,Bridges & Structures,E110,James King,Lead,,,,,90000
+L0068,2025-02-07,Partner Network,D01,Transport Infrastructure,SD02,Bridges & Structures,E108,Ella Scott,Lead,,,,,135000
+L0069,2025-04-10,Existing Client,D02,Water & Utilities,SD04,Treatment Plants,E116,Samuel Carter,Qualified,2025-04-14,,,,60000
+L0070,2025-12-19,Tender Portal,D01,Transport Infrastructure,SD01,Roads & Highways,E101,Harper Carter,Negotiation,2026-01-02,2026-01-09,2026-01-25,,160000
+L0071,2025-04-01,Referral,D02,Water & Utilities,SD04,Treatment Plants,E120,Lucas Green,Qualified,2025-04-06,,,,110000
+L0072,2025-08-22,Email Campaign,D03,Urban Development,SD05,Land Development,E122,Sebastian Hernandez,Negotiation,2025-09-01,2025-09-22,2025-10-05,,135000
+L0073,2025-11-10,Tender Portal,D02,Water & Utilities,SD04,Treatment Plants,E117,Harper King,Qualified,2025-11-19,,,,110000
+L0074,2025-09-01,Existing Client,D02,Water & Utilities,SD03,Water Networks,E112,James Wright,Lead,,,,,60000
+L0075,2025-05-22,Email Campaign,D03,Urban Development,SD06,Project Controls,E130,Sebastian Scott,Qualified,2025-05-28,,,,60000
+L0076,2025-02-09,Website,D03,Urban Development,SD05,Land Development,E122,Sebastian Hernandez,Lead,,,,,75000
+L0077,2025-10-04,Email Campaign,D03,Urban Development,SD05,Land Development,E124,Harper Baker,Lead,,,,,60000
+L0078,2025-12-22,Website,D01,Transport Infrastructure,SD02,Bridges & Structures,E108,Ella Scott,Proposal,2025-12-30,2026-01-16,,,45000
+L0079,2025-10-05,Email Campaign,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Lead,,,,,60000
+L0080,2025-07-19,Website,D01,Transport Infrastructure,SD01,Roads & Highways,E104,David Kim,Won,2025-08-02,2025-08-18,2025-09-05,2025-09-10,45000
+L0081,2025-08-03,Email Campaign,D03,Urban Development,SD05,Land Development,E124,Harper Baker,Proposal,2025-08-17,2025-08-28,,,110000
+L0082,2025-04-23,Website,D02,Water & Utilities,SD04,Treatment Plants,E117,Harper King,Qualified,2025-05-01,,,,45000
+L0083,2025-12-09,Partner Network,D02,Water & Utilities,SD04,Treatment Plants,E120,Lucas Green,Proposal,2025-12-18,2025-12-26,,,160000
+L0084,2025-10-01,Email Campaign,D03,Urban Development,SD06,Project Controls,E126,Benjamin Allen,Won,2025-10-12,2025-10-16,2025-10-21,2025-11-15,110000
+L0085,2025-04-04,Tender Portal,D02,Water & Utilities,SD04,Treatment Plants,E118,Sophia Allen,Lead,,,,,75000
+L0086,2025-08-21,Website,D01,Transport Infrastructure,SD02,Bridges & Structures,E108,Ella Scott,Lead,,,,,90000
+L0087,2025-08-04,Website,D02,Water & Utilities,SD04,Treatment Plants,E116,Samuel Carter,Negotiation,2025-08-06,2025-08-27,2025-08-31,,90000
+L0088,2025-04-25,Tender Portal,D02,Water & Utilities,SD03,Water Networks,E115,Grace Young,Negotiation,2025-04-27,2025-05-01,2025-05-11,,135000
+L0089,2025-01-11,Existing Client,D01,Transport Infrastructure,SD01,Roads & Highways,E104,David Kim,Lead,,,,,90000
+L0090,2025-02-28,Partner Network,D02,Water & Utilities,SD04,Treatment Plants,E117,Harper King,Won,2025-03-13,2025-03-25,2025-04-08,2025-04-18,90000
+L0091,2025-02-28,Existing Client,D01,Transport Infrastructure,SD01,Roads & Highways,E101,Harper Carter,Won,2025-03-11,2025-03-15,2025-03-27,2025-04-19,45000
+L0092,2025-04-12,Tender Portal,D02,Water & Utilities,SD03,Water Networks,E113,Chloe Campbell,Qualified,2025-04-24,,,,160000
+L0093,2025-02-22,Website,D02,Water & Utilities,SD04,Treatment Plants,E117,Harper King,Negotiation,2025-03-08,2025-03-15,2025-03-19,,110000
+L0094,2025-09-30,Referral,D01,Transport Infrastructure,SD02,Bridges & Structures,E109,Sophia Hernandez,Proposal,2025-10-10,2025-10-24,,,45000
+L0095,2025-08-04,Existing Client,D01,Transport Infrastructure,SD01,Roads & Highways,E104,David Kim,Lead,,,,,75000
+L0096,2025-08-24,Existing Client,D01,Transport Infrastructure,SD01,Roads & Highways,E102,Daniel Hall,Qualified,2025-09-03,,,,135000
+L0097,2025-05-19,Website,D01,Transport Infrastructure,SD02,Bridges & Structures,E109,Sophia Hernandez,Proposal,2025-05-27,2025-06-08,,,90000
+L0098,2025-05-06,Tender Portal,D03,Urban Development,SD06,Project Controls,E126,Benjamin Allen,Lead,,,,,90000
+L0099,2025-08-26,Referral,D01,Transport Infrastructure,SD02,Bridges & Structures,E110,James King,Qualified,2025-09-02,,,,90000
+L0100,2025-09-11,Website,D02,Water & Utilities,SD03,Water Networks,E115,Grace Young,Lead,,,,,60000
+L0101,2025-05-13,Existing Client,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Lead,,,,,110000
+L0102,2025-05-22,Referral,D03,Urban Development,SD05,Land Development,E125,Emily Allen,Lead,,,,,60000
+L0103,2025-05-04,Existing Client,D02,Water & Utilities,SD03,Water Networks,E114,Ella Gonzalez,Qualified,2025-05-09,,,,160000
+L0104,2025-09-01,Website,D03,Urban Development,SD06,Project Controls,E129,Samuel Carter,Qualified,2025-09-04,,,,45000
+L0105,2025-04-24,Email Campaign,D01,Transport Infrastructure,SD02,Bridges & Structures,E106,Ella Nelson,Proposal,2025-05-06,2025-05-21,,,75000
+L0106,2025-10-11,Partner Network,D01,Transport Infrastructure,SD02,Bridges & Structures,E110,James King,Lead,,,,,135000
+L0107,2025-06-19,Tender Portal,D02,Water & Utilities,SD03,Water Networks,E112,James Wright,Proposal,2025-06-25,2025-07-07,,,75000
+L0108,2025-03-03,Partner Network,D03,Urban Development,SD05,Land Development,E125,Emily Allen,Lead,,,,,135000
+L0109,2025-12-20,Email Campaign,D02,Water & Utilities,SD03,Water Networks,E115,Grace Young,Lead,,,,,135000
+L0110,2025-05-22,Website,D01,Transport Infrastructure,SD02,Bridges & Structures,E109,Sophia Hernandez,Lost,2025-06-02,2025-06-15,2025-06-21,2025-07-02,110000
+L0111,2025-04-27,Existing Client,D03,Urban Development,SD05,Land Development,E122,Sebastian Hernandez,Lead,,,,,45000
+L0112,2025-10-01,Partner Network,D03,Urban Development,SD05,Land Development,E124,Harper Baker,Lead,,,,,45000
+L0113,2025-05-30,Referral,D01,Transport Infrastructure,SD01,Roads & Highways,E104,David Kim,Proposal,2025-06-08,2025-06-15,,,160000
+L0114,2025-10-21,Tender Portal,D03,Urban Development,SD06,Project Controls,E130,Sebastian Scott,Qualified,2025-10-28,,,,90000
+L0115,2025-01-27,Referral,D02,Water & Utilities,SD03,Water Networks,E112,James Wright,Won,2025-01-30,2025-02-05,2025-02-20,2025-03-12,90000
+L0116,2025-01-28,Website,D03,Urban Development,SD05,Land Development,E124,Harper Baker,Lead,,,,,110000
+L0117,2025-02-13,Email Campaign,D03,Urban Development,SD05,Land Development,E123,Sophia Hill,Lead,,,,,160000
+L0118,2025-11-07,Email Campaign,D03,Urban Development,SD05,Land Development,E125,Emily Allen,Negotiation,2025-11-21,2025-12-11,2025-12-26,,60000
+L0119,2025-08-15,Tender Portal,D03,Urban Development,SD05,Land Development,E125,Emily Allen,Negotiation,2025-08-21,2025-08-26,2025-09-01,,90000
+L0120,2025-11-17,Tender Portal,D01,Transport Infrastructure,SD01,Roads & Highways,E102,Daniel Hall,Lead,,,,,45000
+L0121,2025-05-03,Email Campaign,D03,Urban Development,SD06,Project Controls,E128,Emily Adams,Qualified,2025-05-05,,,,60000
+L0122,2025-08-19,Website,D01,Transport Infrastructure,SD02,Bridges & Structures,E109,Sophia Hernandez,Qualified,2025-08-24,,,,45000
+L0123,2025-12-28,Website,D01,Transport Infrastructure,SD02,Bridges & Structures,E110,James King,Proposal,2025-12-31,2026-01-11,,,90000
+L0124,2025-11-17,Partner Network,D02,Water & Utilities,SD04,Treatment Plants,E117,Harper King,Proposal,2025-11-25,2025-12-02,,,60000
+L0125,2025-04-26,Website,D02,Water & Utilities,SD03,Water Networks,E114,Ella Gonzalez,Won,2025-04-30,2025-05-06,2025-05-10,2025-05-20,160000
+L0126,2025-10-19,Website,D03,Urban Development,SD05,Land Development,E125,Emily Allen,Qualified,2025-11-01,,,,90000
+L0127,2025-12-25,Partner Network,D02,Water & Utilities,SD03,Water Networks,E112,James Wright,Won,2026-01-04,2026-01-23,2026-02-09,2026-02-16,110000
+L0128,2025-06-15,Tender Portal,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Lead,,,,,45000
+L0129,2025-12-12,Existing Client,D02,Water & Utilities,SD04,Treatment Plants,E116,Samuel Carter,Qualified,2025-12-26,,,,45000
+L0130,2025-05-18,Tender Portal,D03,Urban Development,SD05,Land Development,E122,Sebastian Hernandez,Lead,,,,,160000
+L0131,2025-08-29,Existing Client,D01,Transport Infrastructure,SD02,Bridges & Structures,E109,Sophia Hernandez,Proposal,2025-09-02,2025-09-19,,,75000
+L0132,2025-09-09,Website,D03,Urban Development,SD06,Project Controls,E129,Samuel Carter,Qualified,2025-09-16,,,,90000
+L0133,2025-12-10,Existing Client,D03,Urban Development,SD06,Project Controls,E129,Samuel Carter,Negotiation,2025-12-18,2026-01-06,2026-01-18,,75000
+L0134,2025-07-25,Website,D03,Urban Development,SD05,Land Development,E123,Sophia Hill,Lead,,,,,45000
+L0135,2025-05-10,Email Campaign,D03,Urban Development,SD05,Land Development,E121,Daniel Hernandez,Lead,,,,,160000
+L0136,2025-09-21,Referral,D02,Water & Utilities,SD03,Water Networks,E114,Ella Gonzalez,Proposal,2025-09-30,2025-10-17,,,110000
+L0137,2025-04-07,Email Campaign,D02,Water & Utilities,SD04,Treatment Plants,E119,Henry Taylor,Lead,,,,,160000
+L0138,2025-11-17,Tender Portal,D02,Water & Utilities,SD03,Water Networks,E114,Ella Gonzalez,Proposal,2025-11-23,2025-12-14,,,60000
+L0139,2025-05-28,Existing Client,D03,Urban Development,SD06,Project Controls,E126,Benjamin Allen,Negotiation,2025-05-31,2025-06-04,2025-06-14,,90000
+L0140,2025-03-23,Referral,D01,Transport Infrastructure,SD02,Bridges & Structures,E107,Amelia Allen,Qualified,2025-03-31,,,,110000
+L0141,2025-04-26,Tender Portal,D03,Urban Development,SD06,Project Controls,E127,Zoe Hill,Qualified,2025-05-08,,,,45000
+L0142,2025-09-13,Email Campaign,D02,Water & Utilities,SD03,Water Networks,E111,Sebastian Lopez,Qualified,2025-09-21,,,,75000
+L0143,2025-08-30,Tender Portal,D02,Water & Utilities,SD04,Treatment Plants,E119,Henry Taylor,Qualified,2025-09-07,,,,60000
+L0144,2025-11-03,Email Campaign,D02,Water & Utilities,SD04,Treatment Plants,E120,Lucas Green,Proposal,2025-11-06,2025-11-18,,,60000
+L0145,2025-06-24,Website,D02,Water & Utilities,SD03,Water Networks,E112,James Wright,Lead,,,,,45000
+L0146,2025-06-02,Tender Portal,D03,Urban Development,SD05,Land Development,E123,Sophia Hill,Qualified,2025-06-11,,,,135000
+L0147,2025-08-17,Partner Network,D02,Water & Utilities,SD04,Treatment Plants,E120,Lucas Green,Qualified,2025-08-27,,,,75000
+L0148,2025-07-13,Email Campaign,D03,Urban Development,SD06,Project Controls,E128,Emily Adams,Won,2025-07-18,2025-07-29,2025-08-13,2025-08-25,160000
+L0149,2025-08-31,Existing Client,D02,Water & Utilities,SD03,Water Networks,E114,Ella Gonzalez,Lead,,,,,135000
+L0150,2025-03-19,Referral,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Won,2025-03-29,2025-04-12,2025-04-18,2025-05-07,60000
+L0151,2025-01-08,Tender Portal,D01,Transport Infrastructure,SD02,Bridges & Structures,E110,James King,Lead,,,,,135000
+L0152,2025-02-08,Website,D02,Water & Utilities,SD04,Treatment Plants,E118,Sophia Allen,Negotiation,2025-02-15,2025-03-03,2025-03-08,,75000
+L0153,2025-12-12,Existing Client,D02,Water & Utilities,SD03,Water Networks,E115,Grace Young,Lead,,,,,75000
+L0154,2025-09-07,Tender Portal,D02,Water & Utilities,SD03,Water Networks,E115,Grace Young,Lead,,,,,45000
+L0155,2025-11-20,Existing Client,D02,Water & Utilities,SD04,Treatment Plants,E116,Samuel Carter,Lost,2025-11-23,2025-12-10,2025-12-16,2026-01-14,135000
+L0156,2025-12-27,Referral,D01,Transport Infrastructure,SD01,Roads & Highways,E102,Daniel Hall,Qualified,2026-01-02,,,,135000
+L0157,2025-01-24,Tender Portal,D03,Urban Development,SD06,Project Controls,E128,Emily Adams,Negotiation,2025-01-31,2025-02-15,2025-03-03,,75000
+L0158,2025-05-06,Tender Portal,D03,Urban Development,SD06,Project Controls,E128,Emily Adams,Lead,,,,,135000
+L0159,2025-03-29,Email Campaign,D02,Water & Utilities,SD03,Water Networks,E111,Sebastian Lopez,Lead,,,,,160000
+L0160,2025-11-14,Tender Portal,D01,Transport Infrastructure,SD01,Roads & Highways,E103,Jack Nelson,Qualified,2025-11-18,,,,110000
+L0161,2025-08-25,Email Campaign,D03,Urban Development,SD05,Land Development,E124,Harper Baker,Qualified,2025-08-27,,,,135000
+L0162,2025-05-28,Website,D03,Urban Development,SD05,Land Development,E125,Emily Allen,Lead,,,,,90000
+L0163,2025-10-28,Email Campaign,D03,Urban Development,SD05,Land Development,E122,Sebastian Hernandez,Proposal,2025-11-10,2025-11-22,,,90000
+L0164,2025-06-04,Partner Network,D01,Transport Infrastructure,SD02,Bridges & Structures,E110,James King,Lost,2025-06-13,2025-06-20,2025-06-30,2025-07-17,160000
+L0165,2025-07-03,Website,D01,Transport Infrastructure,SD01,Roads & Highways,E102,Daniel Hall,Lead,,,,,135000
+L0166,2025-01-12,Existing Client,D01,Transport Infrastructure,SD01,Roads & Highways,E104,David Kim,Lead,,,,,110000
+L0167,2025-01-26,Partner Network,D03,Urban Development,SD06,Project Controls,E130,Sebastian Scott,Proposal,2025-02-01,2025-02-12,,,160000
+L0168,2025-06-30,Existing Client,D02,Water & Utilities,SD03,Water Networks,E112,James Wright,Proposal,2025-07-06,2025-07-14,,,110000
+L0169,2025-02-19,Referral,D01,Transport Infrastructure,SD02,Bridges & Structures,E107,Amelia Allen,Lead,,,,,90000
+L0170,2025-10-24,Existing Client,D02,Water & Utilities,SD04,Treatment Plants,E119,Henry Taylor,Proposal,2025-10-30,2025-11-13,,,45000
+L0171,2025-08-01,Partner Network,D03,Urban Development,SD05,Land Development,E124,Harper Baker,Lead,,,,,160000
+L0172,2025-07-07,Website,D03,Urban Development,SD05,Land Development,E125,Emily Allen,Qualified,2025-07-11,,,,75000
+L0173,2025-09-04,Email Campaign,D03,Urban Development,SD05,Land Development,E122,Sebastian Hernandez,Proposal,2025-09-18,2025-09-25,,,75000
+L0174,2025-02-08,Partner Network,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Proposal,2025-02-20,2025-03-08,,,60000
+L0175,2025-07-07,Email Campaign,D03,Urban Development,SD05,Land Development,E124,Harper Baker,Negotiation,2025-07-13,2025-08-03,2025-08-09,,45000
+L0176,2025-07-08,Website,D02,Water & Utilities,SD03,Water Networks,E114,Ella Gonzalez,Qualified,2025-07-20,,,,160000
+L0177,2025-02-25,Website,D02,Water & Utilities,SD03,Water Networks,E111,Sebastian Lopez,Qualified,2025-03-07,,,,110000
+L0178,2025-11-09,Existing Client,D01,Transport Infrastructure,SD02,Bridges & Structures,E109,Sophia Hernandez,Proposal,2025-11-18,2025-12-01,,,135000
+L0179,2025-07-29,Website,D03,Urban Development,SD05,Land Development,E124,Harper Baker,Lead,,,,,45000
+L0180,2025-09-10,Tender Portal,D02,Water & Utilities,SD03,Water Networks,E111,Sebastian Lopez,Lead,,,,,110000
+L0181,2025-07-18,Existing Client,D01,Transport Infrastructure,SD01,Roads & Highways,E102,Daniel Hall,Lead,,,,,135000
+L0182,2025-10-04,Email Campaign,D01,Transport Infrastructure,SD02,Bridges & Structures,E106,Ella Nelson,Qualified,2025-10-08,,,,135000
+L0183,2025-12-02,Existing Client,D02,Water & Utilities,SD03,Water Networks,E114,Ella Gonzalez,Negotiation,2025-12-10,2025-12-22,2025-12-26,,110000
+L0184,2025-07-09,Referral,D02,Water & Utilities,SD04,Treatment Plants,E118,Sophia Allen,Qualified,2025-07-16,,,,60000
+L0185,2025-12-18,Referral,D03,Urban Development,SD05,Land Development,E122,Sebastian Hernandez,Qualified,2025-12-25,,,,135000
+L0186,2025-07-23,Email Campaign,D01,Transport Infrastructure,SD01,Roads & Highways,E102,Daniel Hall,Lead,,,,,45000
+L0187,2025-02-16,Website,D02,Water & Utilities,SD03,Water Networks,E115,Grace Young,Proposal,2025-02-18,2025-02-23,,,110000
+L0188,2025-05-05,Partner Network,D01,Transport Infrastructure,SD01,Roads & Highways,E101,Harper Carter,Negotiation,2025-05-08,2025-05-29,2025-06-07,,60000
+L0189,2025-04-21,Partner Network,D01,Transport Infrastructure,SD02,Bridges & Structures,E106,Ella Nelson,Lead,,,,,60000
+L0190,2025-01-02,Tender Portal,D03,Urban Development,SD06,Project Controls,E128,Emily Adams,Negotiation,2025-01-06,2025-01-27,2025-02-07,,60000
+L0191,2025-02-26,Tender Portal,D03,Urban Development,SD05,Land Development,E122,Sebastian Hernandez,Lead,,,,,75000
+L0192,2025-10-29,Referral,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Lead,,,,,75000
+L0193,2025-03-06,Email Campaign,D02,Water & Utilities,SD03,Water Networks,E115,Grace Young,Qualified,2025-03-09,,,,135000
+L0194,2025-08-18,Partner Network,D02,Water & Utilities,SD04,Treatment Plants,E117,Harper King,Qualified,2025-08-27,,,,45000
+L0195,2025-04-24,Website,D02,Water & Utilities,SD04,Treatment Plants,E117,Harper King,Proposal,2025-05-06,2025-05-26,,,160000
+L0196,2025-08-23,Email Campaign,D01,Transport Infrastructure,SD02,Bridges & Structures,E110,James King,Lead,,,,,90000
+L0197,2025-08-07,Referral,D02,Water & Utilities,SD04,Treatment Plants,E119,Henry Taylor,Qualified,2025-08-10,,,,90000
+L0198,2025-06-14,Website,D01,Transport Infrastructure,SD02,Bridges & Structures,E109,Sophia Hernandez,Lead,,,,,60000
+L0199,2025-11-16,Partner Network,D01,Transport Infrastructure,SD02,Bridges & Structures,E110,James King,Qualified,2025-11-24,,,,75000
+L0200,2025-09-29,Referral,D02,Water & Utilities,SD03,Water Networks,E112,James Wright,Qualified,2025-10-07,,,,110000
+L0201,2025-12-26,Email Campaign,D01,Transport Infrastructure,SD01,Roads & Highways,E104,David Kim,Negotiation,2026-01-09,2026-01-30,2026-02-08,,135000
+L0202,2025-08-20,Email Campaign,D01,Transport Infrastructure,SD01,Roads & Highways,E101,Harper Carter,Lead,,,,,160000
+L0203,2025-07-24,Existing Client,D02,Water & Utilities,SD03,Water Networks,E113,Chloe Campbell,Proposal,2025-08-01,2025-08-15,,,75000
+L0204,2025-05-11,Referral,D02,Water & Utilities,SD03,Water Networks,E115,Grace Young,Won,2025-05-20,2025-05-26,2025-05-31,2025-06-07,135000
+L0205,2025-07-10,Partner Network,D03,Urban Development,SD05,Land Development,E121,Daniel Hernandez,Qualified,2025-07-20,,,,110000
+L0206,2025-06-18,Existing Client,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Lead,,,,,160000
+L0207,2025-08-05,Partner Network,D03,Urban Development,SD05,Land Development,E123,Sophia Hill,Won,2025-08-11,2025-08-26,2025-09-01,2025-09-24,110000
+L0208,2025-09-04,Website,D01,Transport Infrastructure,SD01,Roads & Highways,E103,Jack Nelson,Negotiation,2025-09-14,2025-09-29,2025-10-05,,75000
+L0209,2025-10-21,Partner Network,D01,Transport Infrastructure,SD02,Bridges & Structures,E106,Ella Nelson,Negotiation,2025-10-31,2025-11-21,2025-11-24,,160000
+L0210,2025-12-03,Existing Client,D02,Water & Utilities,SD03,Water Networks,E113,Chloe Campbell,Lead,,,,,75000
+L0211,2025-06-08,Tender Portal,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Lead,,,,,60000
+L0212,2025-10-17,Existing Client,D03,Urban Development,SD06,Project Controls,E130,Sebastian Scott,Lead,,,,,135000
+L0213,2025-01-16,Email Campaign,D03,Urban Development,SD05,Land Development,E123,Sophia Hill,Proposal,2025-01-24,2025-02-10,,,60000
+L0214,2025-06-24,Website,D02,Water & Utilities,SD04,Treatment Plants,E119,Henry Taylor,Lead,,,,,135000
+L0215,2025-10-18,Tender Portal,D02,Water & Utilities,SD04,Treatment Plants,E116,Samuel Carter,Lead,,,,,45000
+L0216,2025-03-22,Email Campaign,D02,Water & Utilities,SD03,Water Networks,E111,Sebastian Lopez,Proposal,2025-03-31,2025-04-17,,,75000
+L0217,2025-11-07,Partner Network,D02,Water & Utilities,SD03,Water Networks,E114,Ella Gonzalez,Lead,,,,,60000
+L0218,2025-02-28,Existing Client,D01,Transport Infrastructure,SD01,Roads & Highways,E104,David Kim,Qualified,2025-03-12,,,,75000
+L0219,2025-10-31,Tender Portal,D01,Transport Infrastructure,SD02,Bridges & Structures,E109,Sophia Hernandez,Qualified,2025-11-02,,,,75000
+L0220,2025-07-22,Website,D02,Water & Utilities,SD04,Treatment Plants,E119,Henry Taylor,Lead,,,,,60000
+L0221,2025-04-19,Referral,D02,Water & Utilities,SD03,Water Networks,E112,James Wright,Proposal,2025-04-26,2025-05-03,,,75000
+L0222,2025-09-12,Partner Network,D02,Water & Utilities,SD03,Water Networks,E115,Grace Young,Lead,,,,,90000
+L0223,2025-12-27,Website,D01,Transport Infrastructure,SD02,Bridges & Structures,E108,Ella Scott,Qualified,2026-01-08,,,,160000
+L0224,2025-02-06,Referral,D01,Transport Infrastructure,SD02,Bridges & Structures,E106,Ella Nelson,Negotiation,2025-02-14,2025-02-18,2025-03-07,,45000
+L0225,2025-06-10,Existing Client,D01,Transport Infrastructure,SD02,Bridges & Structures,E108,Ella Scott,Qualified,2025-06-23,,,,90000
+L0226,2025-08-02,Website,D03,Urban Development,SD06,Project Controls,E130,Sebastian Scott,Lead,,,,,45000
+L0227,2025-03-29,Tender Portal,D01,Transport Infrastructure,SD02,Bridges & Structures,E106,Ella Nelson,Negotiation,2025-04-01,2025-04-18,2025-04-24,,75000
+L0228,2025-08-12,Email Campaign,D02,Water & Utilities,SD03,Water Networks,E111,Sebastian Lopez,Lead,,,,,45000
+L0229,2025-06-08,Tender Portal,D03,Urban Development,SD06,Project Controls,E130,Sebastian Scott,Lead,,,,,160000
+L0230,2025-02-09,Website,D02,Water & Utilities,SD04,Treatment Plants,E120,Lucas Green,Proposal,2025-02-19,2025-03-01,,,110000
+L0231,2025-06-29,Website,D03,Urban Development,SD06,Project Controls,E127,Zoe Hill,Lead,,,,,60000
+L0232,2025-04-12,Existing Client,D03,Urban Development,SD05,Land Development,E122,Sebastian Hernandez,Qualified,2025-04-26,,,,160000
+L0233,2025-02-08,Partner Network,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Won,2025-02-17,2025-03-07,2025-03-24,2025-04-19,135000
+L0234,2025-11-16,Referral,D02,Water & Utilities,SD04,Treatment Plants,E119,Henry Taylor,Negotiation,2025-11-23,2025-12-01,2025-12-18,,135000
+L0235,2025-08-29,Website,D03,Urban Development,SD05,Land Development,E125,Emily Allen,Proposal,2025-09-04,2025-09-09,,,160000
+L0236,2025-09-17,Referral,D02,Water & Utilities,SD03,Water Networks,E114,Ella Gonzalez,Lead,,,,,90000
+L0237,2025-01-30,Email Campaign,D01,Transport Infrastructure,SD01,Roads & Highways,E103,Jack Nelson,Negotiation,2025-02-11,2025-02-17,2025-03-04,,45000
+L0238,2025-10-25,Partner Network,D03,Urban Development,SD06,Project Controls,E130,Sebastian Scott,Won,2025-10-27,2025-11-14,2025-11-23,2025-12-08,135000
+L0239,2025-02-01,Website,D01,Transport Infrastructure,SD02,Bridges & Structures,E108,Ella Scott,Lead,,,,,160000
+L0240,2025-02-13,Email Campaign,D03,Urban Development,SD06,Project Controls,E127,Zoe Hill,Proposal,2025-02-18,2025-03-08,,,45000
+L0241,2025-09-26,Website,D01,Transport Infrastructure,SD01,Roads & Highways,E102,Daniel Hall,Qualified,2025-10-03,,,,75000
+L0242,2025-07-18,Existing Client,D03,Urban Development,SD06,Project Controls,E126,Benjamin Allen,Proposal,2025-07-29,2025-08-03,,,135000
+L0243,2025-11-28,Partner Network,D02,Water & Utilities,SD04,Treatment Plants,E120,Lucas Green,Lead,,,,,45000
+L0244,2025-12-14,Existing Client,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Lead,,,,,135000
+L0245,2025-11-05,Existing Client,D03,Urban Development,SD05,Land Development,E121,Daniel Hernandez,Lead,,,,,110000
+L0246,2025-03-14,Existing Client,D01,Transport Infrastructure,SD02,Bridges & Structures,E106,Ella Nelson,Lead,,,,,135000
+L0247,2025-12-06,Referral,D02,Water & Utilities,SD04,Treatment Plants,E120,Lucas Green,Lead,,,,,135000
+L0248,2025-06-08,Website,D02,Water & Utilities,SD04,Treatment Plants,E117,Harper King,Lead,,,,,160000
+L0249,2025-03-07,Email Campaign,D01,Transport Infrastructure,SD01,Roads & Highways,E104,David Kim,Lead,,,,,135000
+L0250,2025-09-18,Tender Portal,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Lead,,,,,75000
+L0251,2025-04-20,Referral,D02,Water & Utilities,SD04,Treatment Plants,E119,Henry Taylor,Won,2025-04-25,2025-05-06,2025-05-13,2025-05-22,90000
+L0252,2025-02-21,Referral,D01,Transport Infrastructure,SD02,Bridges & Structures,E108,Ella Scott,Proposal,2025-03-06,2025-03-26,,,160000
+L0253,2025-12-05,Tender Portal,D02,Water & Utilities,SD04,Treatment Plants,E119,Henry Taylor,Negotiation,2025-12-09,2025-12-25,2026-01-01,,110000
+L0254,2025-04-03,Existing Client,D03,Urban Development,SD06,Project Controls,E130,Sebastian Scott,Proposal,2025-04-11,2025-04-26,,,45000
+L0255,2025-05-02,Email Campaign,D01,Transport Infrastructure,SD02,Bridges & Structures,E106,Ella Nelson,Qualified,2025-05-15,,,,160000
+L0256,2025-04-30,Email Campaign,D03,Urban Development,SD05,Land Development,E123,Sophia Hill,Lead,,,,,160000
+L0257,2025-04-10,Website,D02,Water & Utilities,SD03,Water Networks,E113,Chloe Campbell,Proposal,2025-04-19,2025-05-07,,,110000
+L0258,2025-07-15,Partner Network,D03,Urban Development,SD05,Land Development,E123,Sophia Hill,Qualified,2025-07-20,,,,60000
+L0259,2025-03-12,Website,D03,Urban Development,SD05,Land Development,E124,Harper Baker,Lead,,,,,90000
+L0260,2025-10-11,Referral,D01,Transport Infrastructure,SD02,Bridges & Structures,E108,Ella Scott,Proposal,2025-10-14,2025-10-27,,,110000
+L0261,2025-03-24,Email Campaign,D03,Urban Development,SD05,Land Development,E125,Emily Allen,Qualified,2025-03-28,,,,110000
+L0262,2025-02-16,Email Campaign,D02,Water & Utilities,SD04,Treatment Plants,E118,Sophia Allen,Negotiation,2025-02-18,2025-03-07,2025-03-11,,75000
+L0263,2025-09-15,Website,D01,Transport Infrastructure,SD01,Roads & Highways,E102,Daniel Hall,Lead,,,,,45000
+L0264,2025-04-25,Existing Client,D03,Urban Development,SD05,Land Development,E123,Sophia Hill,Lead,,,,,45000
+L0265,2025-11-29,Existing Client,D03,Urban Development,SD06,Project Controls,E126,Benjamin Allen,Negotiation,2025-12-01,2025-12-14,2026-01-01,,60000
+L0266,2025-03-13,Referral,D01,Transport Infrastructure,SD01,Roads & Highways,E104,David Kim,Qualified,2025-03-16,,,,45000
+L0267,2025-05-12,Referral,D03,Urban Development,SD05,Land Development,E122,Sebastian Hernandez,Negotiation,2025-05-25,2025-06-14,2025-06-30,,110000
+L0268,2025-05-28,Tender Portal,D02,Water & Utilities,SD04,Treatment Plants,E116,Samuel Carter,Lead,,,,,45000
+L0269,2025-08-03,Email Campaign,D01,Transport Infrastructure,SD01,Roads & Highways,E102,Daniel Hall,Lead,,,,,160000
+L0270,2025-11-02,Partner Network,D02,Water & Utilities,SD03,Water Networks,E111,Sebastian Lopez,Lead,,,,,110000
+L0271,2025-05-04,Partner Network,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Lead,,,,,45000
+L0272,2025-06-30,Existing Client,D02,Water & Utilities,SD03,Water Networks,E113,Chloe Campbell,Qualified,2025-07-12,,,,60000
+L0273,2025-02-13,Email Campaign,D02,Water & Utilities,SD04,Treatment Plants,E117,Harper King,Lost,2025-02-23,2025-03-16,2025-03-19,2025-04-05,45000
+L0274,2025-01-23,Referral,D02,Water & Utilities,SD04,Treatment Plants,E118,Sophia Allen,Lost,2025-02-05,2025-02-09,2025-02-23,2025-03-25,75000
+L0275,2025-06-26,Tender Portal,D02,Water & Utilities,SD04,Treatment Plants,E120,Lucas Green,Proposal,2025-06-29,2025-07-13,,,135000
+L0276,2025-01-23,Tender Portal,D02,Water & Utilities,SD04,Treatment Plants,E117,Harper King,Qualified,2025-02-04,,,,160000
+L0277,2025-12-17,Existing Client,D03,Urban Development,SD05,Land Development,E125,Emily Allen,Lost,2025-12-29,2026-01-07,2026-01-14,2026-01-21,90000
+L0278,2025-08-23,Tender Portal,D02,Water & Utilities,SD04,Treatment Plants,E117,Harper King,Lead,,,,,45000
+L0279,2025-01-22,Referral,D02,Water & Utilities,SD03,Water Networks,E114,Ella Gonzalez,Won,2025-01-30,2025-02-20,2025-03-10,2025-03-23,110000
+L0280,2025-07-02,Email Campaign,D03,Urban Development,SD06,Project Controls,E127,Zoe Hill,Negotiation,2025-07-08,2025-07-15,2025-07-29,,75000
+L0281,2025-07-24,Existing Client,D03,Urban Development,SD06,Project Controls,E130,Sebastian Scott,Negotiation,2025-07-31,2025-08-09,2025-08-27,,90000
+L0282,2025-09-12,Email Campaign,D03,Urban Development,SD05,Land Development,E122,Sebastian Hernandez,Won,2025-09-18,2025-09-24,2025-10-10,2025-10-17,110000
+L0283,2025-04-03,Referral,D01,Transport Infrastructure,SD01,Roads & Highways,E102,Daniel Hall,Lead,,,,,45000
+L0284,2025-06-17,Existing Client,D03,Urban Development,SD06,Project Controls,E126,Benjamin Allen,Lead,,,,,110000
+L0285,2025-08-07,Existing Client,D02,Water & Utilities,SD04,Treatment Plants,E117,Harper King,Proposal,2025-08-16,2025-08-21,,,75000
+L0286,2025-06-30,Referral,D01,Transport Infrastructure,SD02,Bridges & Structures,E110,James King,Lead,,,,,160000
+L0287,2025-02-08,Existing Client,D03,Urban Development,SD06,Project Controls,E126,Benjamin Allen,Lead,,,,,160000
+L0288,2025-12-14,Referral,D01,Transport Infrastructure,SD01,Roads & Highways,E103,Jack Nelson,Won,2025-12-25,2026-01-12,2026-01-16,2026-01-25,60000
+L0289,2025-07-07,Referral,D02,Water & Utilities,SD03,Water Networks,E115,Grace Young,Lead,,,,,110000
+L0290,2025-11-06,Referral,D02,Water & Utilities,SD04,Treatment Plants,E117,Harper King,Proposal,2025-11-13,2025-12-01,,,75000
+L0291,2025-10-21,Existing Client,D02,Water & Utilities,SD03,Water Networks,E111,Sebastian Lopez,Qualified,2025-10-28,,,,90000
+L0292,2025-05-23,Email Campaign,D01,Transport Infrastructure,SD02,Bridges & Structures,E109,Sophia Hernandez,Won,2025-06-05,2025-06-14,2025-07-02,2025-07-23,45000
+L0293,2025-05-14,Website,D01,Transport Infrastructure,SD01,Roads & Highways,E102,Daniel Hall,Lead,,,,,110000
+L0294,2025-12-22,Referral,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Lead,,,,,60000
+L0295,2025-08-20,Existing Client,D03,Urban Development,SD06,Project Controls,E128,Emily Adams,Negotiation,2025-08-23,2025-09-06,2025-09-20,,90000
+L0296,2025-02-03,Existing Client,D02,Water & Utilities,SD04,Treatment Plants,E120,Lucas Green,Qualified,2025-02-07,,,,75000
+L0297,2025-12-30,Tender Portal,D03,Urban Development,SD06,Project Controls,E127,Zoe Hill,Negotiation,2026-01-04,2026-01-11,2026-01-20,,110000
+L0298,2025-05-02,Partner Network,D02,Water & Utilities,SD04,Treatment Plants,E118,Sophia Allen,Lead,,,,,110000
+L0299,2025-07-08,Website,D02,Water & Utilities,SD03,Water Networks,E113,Chloe Campbell,Negotiation,2025-07-12,2025-07-18,2025-07-23,,110000
+L0300,2025-07-23,Partner Network,D02,Water & Utilities,SD03,Water Networks,E113,Chloe Campbell,Qualified,2025-07-31,,,,160000
+L0301,2025-02-07,Partner Network,D02,Water & Utilities,SD03,Water Networks,E115,Grace Young,Lost,2025-02-10,2025-02-28,2025-03-17,2025-04-12,135000
+L0302,2025-06-26,Email Campaign,D02,Water & Utilities,SD04,Treatment Plants,E120,Lucas Green,Negotiation,2025-07-06,2025-07-15,2025-07-22,,160000
+L0303,2025-09-15,Tender Portal,D01,Transport Infrastructure,SD02,Bridges & Structures,E108,Ella Scott,Negotiation,2025-09-19,2025-10-02,2025-10-10,,110000
+L0304,2025-06-15,Website,D01,Transport Infrastructure,SD01,Roads & Highways,E102,Daniel Hall,Lead,,,,,110000
+L0305,2025-02-10,Website,D01,Transport Infrastructure,SD01,Roads & Highways,E104,David Kim,Lead,,,,,110000
+L0306,2025-03-06,Existing Client,D02,Water & Utilities,SD04,Treatment Plants,E119,Henry Taylor,Qualified,2025-03-16,,,,45000
+L0307,2025-03-28,Referral,D02,Water & Utilities,SD04,Treatment Plants,E116,Samuel Carter,Won,2025-04-01,2025-04-15,2025-04-19,2025-04-24,60000
+L0308,2025-10-23,Partner Network,D02,Water & Utilities,SD03,Water Networks,E111,Sebastian Lopez,Proposal,2025-11-03,2025-11-20,,,160000
+L0309,2025-11-24,Website,D02,Water & Utilities,SD03,Water Networks,E114,Ella Gonzalez,Qualified,2025-12-04,,,,135000
+L0310,2025-11-25,Existing Client,D03,Urban Development,SD05,Land Development,E122,Sebastian Hernandez,Qualified,2025-12-09,,,,160000
+L0311,2025-07-27,Tender Portal,D01,Transport Infrastructure,SD02,Bridges & Structures,E106,Ella Nelson,Qualified,2025-07-29,,,,135000
+L0312,2025-08-14,Partner Network,D01,Transport Infrastructure,SD01,Roads & Highways,E103,Jack Nelson,Qualified,2025-08-21,,,,60000
+L0313,2025-03-15,Tender Portal,D02,Water & Utilities,SD03,Water Networks,E114,Ella Gonzalez,Negotiation,2025-03-28,2025-04-12,2025-04-27,,75000
+L0314,2025-07-09,Email Campaign,D03,Urban Development,SD06,Project Controls,E130,Sebastian Scott,Qualified,2025-07-14,,,,75000
+L0315,2025-03-04,Referral,D03,Urban Development,SD06,Project Controls,E127,Zoe Hill,Qualified,2025-03-07,,,,60000
+L0316,2025-05-29,Partner Network,D03,Urban Development,SD06,Project Controls,E126,Benjamin Allen,Negotiation,2025-06-03,2025-06-12,2025-06-25,,90000
+L0317,2025-06-10,Email Campaign,D01,Transport Infrastructure,SD02,Bridges & Structures,E106,Ella Nelson,Proposal,2025-06-20,2025-07-08,,,90000
+L0318,2025-06-07,Partner Network,D02,Water & Utilities,SD04,Treatment Plants,E118,Sophia Allen,Lead,,,,,90000
+L0319,2025-08-23,Referral,D02,Water & Utilities,SD03,Water Networks,E111,Sebastian Lopez,Lead,,,,,75000
+L0320,2025-01-26,Existing Client,D03,Urban Development,SD06,Project Controls,E128,Emily Adams,Qualified,2025-02-07,,,,160000
+L0321,2025-08-29,Email Campaign,D03,Urban Development,SD05,Land Development,E122,Sebastian Hernandez,Qualified,2025-09-01,,,,160000
+L0322,2025-03-10,Referral,D02,Water & Utilities,SD04,Treatment Plants,E117,Harper King,Proposal,2025-03-18,2025-04-02,,,160000
+L0323,2025-07-25,Partner Network,D03,Urban Development,SD05,Land Development,E121,Daniel Hernandez,Qualified,2025-08-01,,,,60000
+L0324,2025-05-28,Partner Network,D03,Urban Development,SD06,Project Controls,E127,Zoe Hill,Lead,,,,,90000
+L0325,2025-05-24,Email Campaign,D02,Water & Utilities,SD04,Treatment Plants,E119,Henry Taylor,Lead,,,,,45000
+L0326,2025-07-11,Tender Portal,D01,Transport Infrastructure,SD01,Roads & Highways,E103,Jack Nelson,Qualified,2025-07-25,,,,75000
+L0327,2025-04-12,Referral,D01,Transport Infrastructure,SD02,Bridges & Structures,E110,James King,Qualified,2025-04-14,,,,110000
+L0328,2025-01-20,Email Campaign,D03,Urban Development,SD06,Project Controls,E126,Benjamin Allen,Proposal,2025-01-29,2025-02-18,,,160000
+L0329,2025-03-18,Email Campaign,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Negotiation,2025-03-25,2025-04-08,2025-04-16,,60000
+L0330,2025-11-12,Partner Network,D02,Water & Utilities,SD04,Treatment Plants,E119,Henry Taylor,Qualified,2025-11-22,,,,110000
+L0331,2025-09-08,Referral,D02,Water & Utilities,SD04,Treatment Plants,E119,Henry Taylor,Lead,,,,,160000
+L0332,2025-07-08,Existing Client,D02,Water & Utilities,SD03,Water Networks,E112,James Wright,Proposal,2025-07-19,2025-08-01,,,90000
+L0333,2025-12-19,Partner Network,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Qualified,2025-12-31,,,,75000
+L0334,2025-10-23,Partner Network,D02,Water & Utilities,SD04,Treatment Plants,E120,Lucas Green,Proposal,2025-11-01,2025-11-10,,,110000
+L0335,2025-11-19,Tender Portal,D03,Urban Development,SD06,Project Controls,E127,Zoe Hill,Lead,,,,,135000
+L0336,2025-01-17,Email Campaign,D01,Transport Infrastructure,SD02,Bridges & Structures,E107,Amelia Allen,Won,2025-01-22,2025-01-26,2025-02-12,2025-02-27,45000
+L0337,2025-04-15,Existing Client,D01,Transport Infrastructure,SD02,Bridges & Structures,E107,Amelia Allen,Qualified,2025-04-24,,,,110000
+L0338,2025-02-01,Existing Client,D02,Water & Utilities,SD03,Water Networks,E114,Ella Gonzalez,Qualified,2025-02-08,,,,110000
+L0339,2025-09-02,Email Campaign,D03,Urban Development,SD05,Land Development,E125,Emily Allen,Lead,,,,,60000
+L0340,2025-09-30,Existing Client,D02,Water & Utilities,SD03,Water Networks,E114,Ella Gonzalez,Qualified,2025-10-14,,,,135000
+L0341,2025-12-15,Website,D02,Water & Utilities,SD04,Treatment Plants,E118,Sophia Allen,Qualified,2025-12-20,,,,60000
+L0342,2025-10-13,Website,D01,Transport Infrastructure,SD02,Bridges & Structures,E107,Amelia Allen,Lead,,,,,75000
+L0343,2025-12-27,Website,D03,Urban Development,SD06,Project Controls,E127,Zoe Hill,Proposal,2026-01-03,2026-01-22,,,90000
+L0344,2025-10-14,Existing Client,D01,Transport Infrastructure,SD02,Bridges & Structures,E109,Sophia Hernandez,Lead,,,,,110000
+L0345,2025-10-06,Referral,D03,Urban Development,SD06,Project Controls,E128,Emily Adams,Negotiation,2025-10-13,2025-10-21,2025-11-02,,90000
+L0346,2025-05-28,Existing Client,D02,Water & Utilities,SD03,Water Networks,E115,Grace Young,Lead,,,,,90000
+L0347,2025-05-12,Partner Network,D02,Water & Utilities,SD03,Water Networks,E115,Grace Young,Lead,,,,,160000
+L0348,2025-05-19,Tender Portal,D02,Water & Utilities,SD04,Treatment Plants,E118,Sophia Allen,Proposal,2025-05-22,2025-06-02,,,60000
+L0349,2025-01-26,Referral,D03,Urban Development,SD05,Land Development,E121,Daniel Hernandez,Lead,,,,,60000
+L0350,2025-02-21,Referral,D01,Transport Infrastructure,SD02,Bridges & Structures,E108,Ella Scott,Lead,,,,,90000
+L0351,2025-12-15,Tender Portal,D03,Urban Development,SD05,Land Development,E124,Harper Baker,Lead,,,,,110000
+L0352,2025-07-28,Website,D03,Urban Development,SD05,Land Development,E124,Harper Baker,Qualified,2025-08-11,,,,60000
+L0353,2025-06-14,Partner Network,D03,Urban Development,SD05,Land Development,E121,Daniel Hernandez,Proposal,2025-06-17,2025-06-28,,,160000
+L0354,2025-01-20,Tender Portal,D02,Water & Utilities,SD03,Water Networks,E111,Sebastian Lopez,Lead,,,,,160000
+L0355,2025-01-19,Referral,D01,Transport Infrastructure,SD02,Bridges & Structures,E107,Amelia Allen,Negotiation,2025-02-01,2025-02-14,2025-02-18,,60000
+L0356,2025-06-02,Email Campaign,D01,Transport Infrastructure,SD01,Roads & Highways,E101,Harper Carter,Qualified,2025-06-08,,,,75000
+L0357,2025-11-25,Email Campaign,D01,Transport Infrastructure,SD01,Roads & Highways,E103,Jack Nelson,Qualified,2025-12-05,,,,60000
+L0358,2025-05-20,Existing Client,D02,Water & Utilities,SD03,Water Networks,E113,Chloe Campbell,Negotiation,2025-05-24,2025-06-11,2025-06-22,,75000
+L0359,2025-04-06,Tender Portal,D03,Urban Development,SD05,Land Development,E122,Sebastian Hernandez,Proposal,2025-04-12,2025-04-22,,,160000
+L0360,2025-11-09,Existing Client,D01,Transport Infrastructure,SD01,Roads & Highways,E104,David Kim,Negotiation,2025-11-16,2025-11-22,2025-12-07,,110000
+L0361,2025-02-18,Email Campaign,D03,Urban Development,SD06,Project Controls,E130,Sebastian Scott,Lost,2025-02-25,2025-03-08,2025-03-11,2025-03-24,90000
+L0362,2025-05-01,Website,D01,Transport Infrastructure,SD02,Bridges & Structures,E106,Ella Nelson,Proposal,2025-05-07,2025-05-11,,,75000
+L0363,2025-12-01,Email Campaign,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Proposal,2025-12-13,2025-12-20,,,45000
+L0364,2025-06-07,Existing Client,D02,Water & Utilities,SD03,Water Networks,E114,Ella Gonzalez,Lead,,,,,110000
+L0365,2025-06-09,Tender Portal,D02,Water & Utilities,SD03,Water Networks,E114,Ella Gonzalez,Proposal,2025-06-16,2025-06-27,,,75000
+L0366,2025-03-10,Partner Network,D01,Transport Infrastructure,SD02,Bridges & Structures,E108,Ella Scott,Lead,,,,,135000
+L0367,2025-07-11,Existing Client,D02,Water & Utilities,SD04,Treatment Plants,E116,Samuel Carter,Proposal,2025-07-25,2025-08-15,,,90000
+L0368,2025-04-22,Partner Network,D02,Water & Utilities,SD03,Water Networks,E111,Sebastian Lopez,Proposal,2025-05-06,2025-05-12,,,110000
+L0369,2025-08-17,Referral,D03,Urban Development,SD06,Project Controls,E127,Zoe Hill,Proposal,2025-08-28,2025-09-04,,,45000
+L0370,2025-10-08,Tender Portal,D02,Water & Utilities,SD04,Treatment Plants,E119,Henry Taylor,Lead,,,,,110000
+L0371,2025-03-26,Referral,D01,Transport Infrastructure,SD02,Bridges & Structures,E110,James King,Negotiation,2025-03-29,2025-04-08,2025-04-26,,90000
+L0372,2025-09-19,Email Campaign,D01,Transport Infrastructure,SD02,Bridges & Structures,E107,Amelia Allen,Negotiation,2025-09-23,2025-10-13,2025-10-29,,90000
+L0373,2025-10-16,Website,D02,Water & Utilities,SD03,Water Networks,E112,James Wright,Qualified,2025-10-30,,,,135000
+L0374,2025-01-12,Existing Client,D02,Water & Utilities,SD04,Treatment Plants,E119,Henry Taylor,Lead,,,,,45000
+L0375,2025-04-22,Website,D02,Water & Utilities,SD03,Water Networks,E111,Sebastian Lopez,Lead,,,,,90000
+L0376,2025-12-25,Email Campaign,D03,Urban Development,SD05,Land Development,E121,Daniel Hernandez,Qualified,2025-12-28,,,,45000
+L0377,2025-01-17,Tender Portal,D01,Transport Infrastructure,SD02,Bridges & Structures,E106,Ella Nelson,Lead,,,,,160000
+L0378,2025-11-25,Email Campaign,D03,Urban Development,SD06,Project Controls,E129,Samuel Carter,Lead,,,,,90000
+L0379,2025-07-13,Partner Network,D03,Urban Development,SD05,Land Development,E123,Sophia Hill,Lead,,,,,135000
+L0380,2025-03-10,Email Campaign,D02,Water & Utilities,SD04,Treatment Plants,E117,Harper King,Lead,,,,,110000
+L0381,2025-09-28,Website,D01,Transport Infrastructure,SD02,Bridges & Structures,E106,Ella Nelson,Proposal,2025-09-30,2025-10-04,,,60000
+L0382,2025-08-26,Tender Portal,D03,Urban Development,SD05,Land Development,E121,Daniel Hernandez,Qualified,2025-08-31,,,,90000
+L0383,2025-08-24,Existing Client,D02,Water & Utilities,SD03,Water Networks,E114,Ella Gonzalez,Lead,,,,,60000
+L0384,2025-02-27,Tender Portal,D01,Transport Infrastructure,SD01,Roads & Highways,E104,David Kim,Negotiation,2025-03-10,2025-03-14,2025-03-24,,90000
+L0385,2025-02-04,Existing Client,D01,Transport Infrastructure,SD02,Bridges & Structures,E110,James King,Qualified,2025-02-15,,,,90000
+L0386,2025-12-27,Email Campaign,D01,Transport Infrastructure,SD01,Roads & Highways,E103,Jack Nelson,Lead,,,,,45000
+L0387,2025-08-13,Referral,D03,Urban Development,SD05,Land Development,E124,Harper Baker,Qualified,2025-08-27,,,,160000
+L0388,2025-03-13,Website,D01,Transport Infrastructure,SD02,Bridges & Structures,E106,Ella Nelson,Lost,2025-03-26,2025-04-09,2025-04-22,2025-05-04,60000
+L0389,2025-03-15,Website,D03,Urban Development,SD06,Project Controls,E130,Sebastian Scott,Lead,,,,,75000
+L0390,2025-02-01,Website,D01,Transport Infrastructure,SD01,Roads & Highways,E101,Harper Carter,Won,2025-02-05,2025-02-22,2025-03-12,2025-03-18,135000
+L0391,2025-09-26,Email Campaign,D01,Transport Infrastructure,SD02,Bridges & Structures,E109,Sophia Hernandez,Proposal,2025-09-30,2025-10-13,,,90000
+L0392,2025-04-05,Website,D02,Water & Utilities,SD03,Water Networks,E113,Chloe Campbell,Qualified,2025-04-10,,,,160000
+L0393,2025-12-29,Partner Network,D03,Urban Development,SD05,Land Development,E121,Daniel Hernandez,Negotiation,2026-01-08,2026-01-25,2026-02-10,,45000
+L0394,2025-09-29,Tender Portal,D01,Transport Infrastructure,SD02,Bridges & Structures,E106,Ella Nelson,Lead,,,,,75000
+L0395,2025-06-19,Website,D02,Water & Utilities,SD04,Treatment Plants,E116,Samuel Carter,Won,2025-06-26,2025-07-02,2025-07-11,2025-07-17,160000
+L0396,2025-11-05,Email Campaign,D02,Water & Utilities,SD04,Treatment Plants,E117,Harper King,Negotiation,2025-11-19,2025-12-10,2025-12-19,,60000
+L0397,2025-04-17,Tender Portal,D03,Urban Development,SD05,Land Development,E124,Harper Baker,Lead,,,,,45000
+L0398,2025-04-08,Existing Client,D03,Urban Development,SD05,Land Development,E124,Harper Baker,Proposal,2025-04-17,2025-04-28,,,160000
+L0399,2025-11-06,Partner Network,D01,Transport Infrastructure,SD02,Bridges & Structures,E107,Amelia Allen,Lead,,,,,60000
+L0400,2025-06-14,Existing Client,D01,Transport Infrastructure,SD02,Bridges & Structures,E108,Ella Scott,Lead,,,,,110000
+L0401,2025-07-03,Email Campaign,D01,Transport Infrastructure,SD02,Bridges & Structures,E106,Ella Nelson,Lead,,,,,110000
+L0402,2025-08-27,Website,D03,Urban Development,SD05,Land Development,E121,Daniel Hernandez,Negotiation,2025-09-05,2025-09-19,2025-09-28,,135000
+L0403,2025-06-10,Tender Portal,D01,Transport Infrastructure,SD01,Roads & Highways,E101,Harper Carter,Lead,,,,,160000
+L0404,2025-03-16,Partner Network,D01,Transport Infrastructure,SD01,Roads & Highways,E102,Daniel Hall,Lead,,,,,110000
+L0405,2025-08-02,Tender Portal,D02,Water & Utilities,SD04,Treatment Plants,E119,Henry Taylor,Lead,,,,,75000
+L0406,2025-07-14,Email Campaign,D02,Water & Utilities,SD04,Treatment Plants,E119,Henry Taylor,Negotiation,2025-07-24,2025-08-07,2025-08-18,,90000
+L0407,2025-11-25,Website,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Qualified,2025-12-09,,,,135000
+L0408,2025-03-28,Existing Client,D02,Water & Utilities,SD03,Water Networks,E112,James Wright,Proposal,2025-04-01,2025-04-22,,,90000
+L0409,2025-01-31,Referral,D01,Transport Infrastructure,SD01,Roads & Highways,E104,David Kim,Lead,,,,,160000
+L0410,2025-12-09,Referral,D01,Transport Infrastructure,SD02,Bridges & Structures,E110,James King,Proposal,2025-12-13,2025-12-24,,,90000
+L0411,2025-12-29,Email Campaign,D02,Water & Utilities,SD03,Water Networks,E114,Ella Gonzalez,Lead,,,,,110000
+L0412,2025-07-11,Email Campaign,D02,Water & Utilities,SD04,Treatment Plants,E119,Henry Taylor,Qualified,2025-07-22,,,,135000
+L0413,2025-12-04,Partner Network,D01,Transport Infrastructure,SD01,Roads & Highways,E103,Jack Nelson,Lead,,,,,110000
+L0414,2025-07-30,Website,D01,Transport Infrastructure,SD01,Roads & Highways,E103,Jack Nelson,Lead,,,,,135000
+L0415,2025-10-02,Existing Client,D03,Urban Development,SD05,Land Development,E121,Daniel Hernandez,Lead,,,,,160000
+L0416,2025-12-12,Tender Portal,D03,Urban Development,SD06,Project Controls,E128,Emily Adams,Negotiation,2025-12-15,2025-12-22,2025-12-29,,60000
+L0417,2025-04-09,Website,D03,Urban Development,SD05,Land Development,E124,Harper Baker,Lead,,,,,75000
+L0418,2025-07-23,Email Campaign,D02,Water & Utilities,SD03,Water Networks,E115,Grace Young,Lead,,,,,90000
+L0419,2025-10-17,Email Campaign,D03,Urban Development,SD06,Project Controls,E127,Zoe Hill,Lost,2025-10-23,2025-10-29,2025-11-02,2025-11-09,60000
+L0420,2025-07-14,Referral,D01,Transport Infrastructure,SD01,Roads & Highways,E101,Harper Carter,Qualified,2025-07-26,,,,45000
+L0421,2025-12-26,Email Campaign,D03,Urban Development,SD06,Project Controls,E128,Emily Adams,Lead,,,,,160000
+L0422,2025-11-27,Partner Network,D02,Water & Utilities,SD03,Water Networks,E112,James Wright,Qualified,2025-11-30,,,,160000
+L0423,2025-01-22,Existing Client,D01,Transport Infrastructure,SD02,Bridges & Structures,E108,Ella Scott,Lead,,,,,160000
+L0424,2025-10-18,Existing Client,D03,Urban Development,SD05,Land Development,E125,Emily Allen,Lead,,,,,45000
+L0425,2025-05-24,Website,D03,Urban Development,SD05,Land Development,E124,Harper Baker,Qualified,2025-05-28,,,,45000
+L0426,2025-01-09,Email Campaign,D03,Urban Development,SD06,Project Controls,E129,Samuel Carter,Qualified,2025-01-22,,,,160000
+L0427,2025-02-09,Partner Network,D03,Urban Development,SD06,Project Controls,E126,Benjamin Allen,Lead,,,,,60000
+L0428,2025-07-19,Existing Client,D03,Urban Development,SD06,Project Controls,E126,Benjamin Allen,Lead,,,,,160000
+L0429,2025-03-13,Referral,D02,Water & Utilities,SD03,Water Networks,E111,Sebastian Lopez,Qualified,2025-03-15,,,,75000
+L0430,2025-08-12,Referral,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Negotiation,2025-08-23,2025-09-08,2025-09-21,,75000
+L0431,2025-11-21,Partner Network,D01,Transport Infrastructure,SD02,Bridges & Structures,E107,Amelia Allen,Negotiation,2025-11-30,2025-12-11,2025-12-25,,90000
+L0432,2025-07-12,Existing Client,D03,Urban Development,SD05,Land Development,E121,Daniel Hernandez,Lead,,,,,110000
+L0433,2025-07-14,Existing Client,D02,Water & Utilities,SD03,Water Networks,E115,Grace Young,Proposal,2025-07-28,2025-08-08,,,75000
+L0434,2025-02-07,Existing Client,D02,Water & Utilities,SD04,Treatment Plants,E118,Sophia Allen,Lead,,,,,90000
+L0435,2025-11-21,Referral,D02,Water & Utilities,SD04,Treatment Plants,E117,Harper King,Proposal,2025-11-28,2025-12-05,,,75000
+L0436,2025-01-03,Referral,D02,Water & Utilities,SD04,Treatment Plants,E117,Harper King,Qualified,2025-01-09,,,,160000
+L0437,2025-03-09,Partner Network,D02,Water & Utilities,SD03,Water Networks,E114,Ella Gonzalez,Lead,,,,,90000
+L0438,2025-10-12,Referral,D02,Water & Utilities,SD04,Treatment Plants,E120,Lucas Green,Lead,,,,,45000
+L0439,2025-07-01,Website,D02,Water & Utilities,SD04,Treatment Plants,E119,Henry Taylor,Lead,,,,,110000
+L0440,2025-07-17,Referral,D01,Transport Infrastructure,SD01,Roads & Highways,E104,David Kim,Lead,,,,,90000
+L0441,2025-10-14,Email Campaign,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Qualified,2025-10-26,,,,60000
+L0442,2025-03-28,Email Campaign,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Lead,,,,,75000
+L0443,2025-03-16,Email Campaign,D03,Urban Development,SD06,Project Controls,E130,Sebastian Scott,Lead,,,,,75000
+L0444,2025-06-03,Partner Network,D03,Urban Development,SD06,Project Controls,E129,Samuel Carter,Negotiation,2025-06-09,2025-06-20,2025-07-08,,75000
+L0445,2025-11-12,Referral,D01,Transport Infrastructure,SD02,Bridges & Structures,E107,Amelia Allen,Qualified,2025-11-18,,,,60000
+L0446,2025-07-22,Website,D03,Urban Development,SD06,Project Controls,E128,Emily Adams,Negotiation,2025-08-05,2025-08-19,2025-09-05,,90000
+L0447,2025-08-09,Partner Network,D02,Water & Utilities,SD04,Treatment Plants,E120,Lucas Green,Lead,,,,,75000
+L0448,2025-12-22,Website,D03,Urban Development,SD06,Project Controls,E127,Zoe Hill,Qualified,2025-12-30,,,,60000
+L0449,2025-05-30,Email Campaign,D01,Transport Infrastructure,SD01,Roads & Highways,E103,Jack Nelson,Won,2025-06-04,2025-06-18,2025-07-03,2025-07-16,160000
+L0450,2025-10-16,Existing Client,D03,Urban Development,SD05,Land Development,E125,Emily Allen,Qualified,2025-10-20,,,,110000
+L0451,2025-10-09,Website,D01,Transport Infrastructure,SD02,Bridges & Structures,E106,Ella Nelson,Won,2025-10-22,2025-11-01,2025-11-18,2025-12-18,90000
+L0452,2025-07-29,Tender Portal,D01,Transport Infrastructure,SD02,Bridges & Structures,E110,James King,Lead,,,,,75000
+L0453,2025-05-10,Email Campaign,D03,Urban Development,SD05,Land Development,E122,Sebastian Hernandez,Proposal,2025-05-18,2025-05-24,,,160000
+L0454,2025-11-03,Existing Client,D01,Transport Infrastructure,SD02,Bridges & Structures,E107,Amelia Allen,Qualified,2025-11-13,,,,110000
+L0455,2025-08-03,Existing Client,D02,Water & Utilities,SD03,Water Networks,E115,Grace Young,Lead,,,,,75000
+L0456,2025-10-02,Existing Client,D01,Transport Infrastructure,SD02,Bridges & Structures,E109,Sophia Hernandez,Proposal,2025-10-05,2025-10-16,,,45000
+L0457,2025-12-07,Referral,D01,Transport Infrastructure,SD01,Roads & Highways,E102,Daniel Hall,Lead,,,,,110000
+L0458,2025-10-16,Referral,D02,Water & Utilities,SD03,Water Networks,E113,Chloe Campbell,Won,2025-10-30,2025-11-16,2025-11-22,2025-11-27,75000
+L0459,2025-09-23,Email Campaign,D03,Urban Development,SD06,Project Controls,E126,Benjamin Allen,Qualified,2025-09-28,,,,110000
+L0460,2025-07-11,Existing Client,D03,Urban Development,SD05,Land Development,E122,Sebastian Hernandez,Qualified,2025-07-22,,,,135000
+L0461,2025-09-14,Email Campaign,D02,Water & Utilities,SD03,Water Networks,E115,Grace Young,Lead,,,,,45000
+L0462,2025-02-23,Referral,D01,Transport Infrastructure,SD01,Roads & Highways,E103,Jack Nelson,Lead,,,,,45000
+L0463,2025-03-14,Tender Portal,D03,Urban Development,SD06,Project Controls,E126,Benjamin Allen,Lead,,,,,90000
+L0464,2025-09-24,Email Campaign,D01,Transport Infrastructure,SD02,Bridges & Structures,E107,Amelia Allen,Lead,,,,,45000
+L0465,2025-12-23,Referral,D02,Water & Utilities,SD03,Water Networks,E112,James Wright,Lead,,,,,75000
+L0466,2025-12-30,Existing Client,D01,Transport Infrastructure,SD01,Roads & Highways,E101,Harper Carter,Lead,,,,,75000
+L0467,2025-02-25,Tender Portal,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Won,2025-03-02,2025-03-22,2025-03-30,2025-04-21,135000
+L0468,2025-08-25,Email Campaign,D01,Transport Infrastructure,SD02,Bridges & Structures,E110,James King,Negotiation,2025-08-29,2025-09-07,2025-09-23,,135000
+L0469,2025-01-15,Referral,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Qualified,2025-01-23,,,,90000
+L0470,2025-12-27,Existing Client,D03,Urban Development,SD05,Land Development,E122,Sebastian Hernandez,Lead,,,,,160000
+L0471,2025-02-02,Partner Network,D01,Transport Infrastructure,SD01,Roads & Highways,E103,Jack Nelson,Lead,,,,,160000
+L0472,2025-04-06,Referral,D03,Urban Development,SD05,Land Development,E121,Daniel Hernandez,Lead,,,,,90000
+L0473,2025-05-15,Partner Network,D01,Transport Infrastructure,SD02,Bridges & Structures,E108,Ella Scott,Qualified,2025-05-22,,,,135000
+L0474,2025-07-18,Email Campaign,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Qualified,2025-07-25,,,,75000
+L0475,2025-11-13,Existing Client,D03,Urban Development,SD05,Land Development,E122,Sebastian Hernandez,Negotiation,2025-11-27,2025-12-10,2025-12-15,,135000
+L0476,2025-03-10,Referral,D02,Water & Utilities,SD04,Treatment Plants,E117,Harper King,Lead,,,,,75000
+L0477,2025-04-04,Partner Network,D02,Water & Utilities,SD04,Treatment Plants,E120,Lucas Green,Proposal,2025-04-12,2025-04-29,,,110000
+L0478,2025-03-12,Email Campaign,D01,Transport Infrastructure,SD01,Roads & Highways,E102,Daniel Hall,Lead,,,,,60000
+L0479,2025-11-22,Tender Portal,D02,Water & Utilities,SD03,Water Networks,E115,Grace Young,Proposal,2025-11-26,2025-12-17,,,135000
+L0480,2025-09-08,Email Campaign,D03,Urban Development,SD06,Project Controls,E129,Samuel Carter,Lead,,,,,75000
+L0481,2025-11-14,Email Campaign,D03,Urban Development,SD05,Land Development,E124,Harper Baker,Negotiation,2025-11-23,2025-12-01,2025-12-10,,45000
+L0482,2025-10-15,Email Campaign,D02,Water & Utilities,SD04,Treatment Plants,E119,Henry Taylor,Proposal,2025-10-27,2025-11-15,,,90000
+L0483,2025-12-30,Referral,D03,Urban Development,SD05,Land Development,E123,Sophia Hill,Qualified,2026-01-10,,,,45000
+L0484,2025-04-23,Partner Network,D03,Urban Development,SD05,Land Development,E125,Emily Allen,Lead,,,,,60000
+L0485,2025-05-28,Partner Network,D03,Urban Development,SD05,Land Development,E123,Sophia Hill,Negotiation,2025-06-10,2025-06-29,2025-07-05,,110000
+L0486,2025-02-28,Referral,D02,Water & Utilities,SD03,Water Networks,E112,James Wright,Proposal,2025-03-07,2025-03-28,,,160000
+L0487,2025-08-14,Referral,D03,Urban Development,SD06,Project Controls,E130,Sebastian Scott,Lead,,,,,90000
+L0488,2025-12-01,Email Campaign,D01,Transport Infrastructure,SD02,Bridges & Structures,E108,Ella Scott,Lead,,,,,45000
+L0489,2025-05-15,Tender Portal,D02,Water & Utilities,SD03,Water Networks,E114,Ella Gonzalez,Negotiation,2025-05-24,2025-05-31,2025-06-10,,45000
+L0490,2025-10-29,Partner Network,D01,Transport Infrastructure,SD01,Roads & Highways,E102,Daniel Hall,Negotiation,2025-11-10,2025-11-27,2025-12-05,,110000
+L0491,2025-03-13,Partner Network,D02,Water & Utilities,SD03,Water Networks,E114,Ella Gonzalez,Negotiation,2025-03-15,2025-03-30,2025-04-10,,160000
+L0492,2025-10-03,Website,D02,Water & Utilities,SD04,Treatment Plants,E119,Henry Taylor,Lead,,,,,135000
+L0493,2025-05-29,Partner Network,D02,Water & Utilities,SD03,Water Networks,E112,James Wright,Lead,,,,,160000
+L0494,2025-12-14,Email Campaign,D03,Urban Development,SD06,Project Controls,E128,Emily Adams,Lead,,,,,160000
+L0495,2025-01-31,Tender Portal,D01,Transport Infrastructure,SD01,Roads & Highways,E104,David Kim,Negotiation,2025-02-13,2025-02-21,2025-03-03,,60000
+L0496,2025-12-31,Tender Portal,D01,Transport Infrastructure,SD01,Roads & Highways,E103,Jack Nelson,Negotiation,2026-01-12,2026-01-28,2026-02-15,,160000
+L0497,2025-10-23,Existing Client,D01,Transport Infrastructure,SD01,Roads & Highways,E103,Jack Nelson,Proposal,2025-11-01,2025-11-07,,,90000
+L0498,2025-02-17,Website,D03,Urban Development,SD06,Project Controls,E126,Benjamin Allen,Qualified,2025-03-02,,,,75000
+L0499,2025-08-21,Existing Client,D02,Water & Utilities,SD03,Water Networks,E113,Chloe Campbell,Lead,,,,,45000
+L0500,2025-02-17,Partner Network,D02,Water & Utilities,SD04,Treatment Plants,E116,Samuel Carter,Proposal,2025-02-24,2025-03-02,,,135000
+L0501,2025-07-23,Website,D01,Transport Infrastructure,SD01,Roads & Highways,E102,Daniel Hall,Won,2025-07-28,2025-08-16,2025-08-27,2025-09-11,160000
+L0502,2025-03-08,Referral,D02,Water & Utilities,SD04,Treatment Plants,E120,Lucas Green,Negotiation,2025-03-15,2025-03-20,2025-03-24,,160000
+L0503,2025-11-17,Tender Portal,D03,Urban Development,SD05,Land Development,E123,Sophia Hill,Lead,,,,,160000
+L0504,2025-08-14,Tender Portal,D02,Water & Utilities,SD03,Water Networks,E111,Sebastian Lopez,Lead,,,,,90000
+L0505,2025-12-19,Existing Client,D02,Water & Utilities,SD04,Treatment Plants,E116,Samuel Carter,Negotiation,2025-12-23,2026-01-04,2026-01-09,,75000
+L0506,2025-07-04,Existing Client,D02,Water & Utilities,SD04,Treatment Plants,E118,Sophia Allen,Lead,,,,,135000
+L0507,2025-03-26,Existing Client,D03,Urban Development,SD06,Project Controls,E128,Emily Adams,Lead,,,,,75000
+L0508,2025-12-25,Referral,D02,Water & Utilities,SD03,Water Networks,E111,Sebastian Lopez,Qualified,2026-01-07,,,,45000
+L0509,2025-01-01,Tender Portal,D02,Water & Utilities,SD03,Water Networks,E112,James Wright,Qualified,2025-01-12,,,,60000
+L0510,2025-09-23,Website,D03,Urban Development,SD06,Project Controls,E128,Emily Adams,Lead,,,,,135000
+L0511,2025-03-03,Email Campaign,D02,Water & Utilities,SD03,Water Networks,E111,Sebastian Lopez,Proposal,2025-03-06,2025-03-17,,,90000
+L0512,2025-02-15,Website,D02,Water & Utilities,SD04,Treatment Plants,E120,Lucas Green,Lead,,,,,75000
+L0513,2025-03-12,Referral,D02,Water & Utilities,SD04,Treatment Plants,E119,Henry Taylor,Proposal,2025-03-16,2025-03-24,,,160000
+L0514,2025-09-29,Tender Portal,D03,Urban Development,SD05,Land Development,E122,Sebastian Hernandez,Lead,,,,,135000
+L0515,2025-08-14,Email Campaign,D01,Transport Infrastructure,SD01,Roads & Highways,E101,Harper Carter,Proposal,2025-08-27,2025-09-04,,,135000
+L0516,2025-11-12,Partner Network,D01,Transport Infrastructure,SD02,Bridges & Structures,E109,Sophia Hernandez,Negotiation,2025-11-15,2025-11-23,2025-11-29,,45000
+L0517,2025-07-16,Existing Client,D03,Urban Development,SD05,Land Development,E124,Harper Baker,Won,2025-07-30,2025-08-07,2025-08-17,2025-08-30,75000
+L0518,2025-11-04,Existing Client,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Proposal,2025-11-18,2025-11-22,,,75000
+L0519,2025-06-04,Existing Client,D03,Urban Development,SD06,Project Controls,E128,Emily Adams,Qualified,2025-06-09,,,,110000
+L0520,2025-07-20,Email Campaign,D03,Urban Development,SD06,Project Controls,E129,Samuel Carter,Proposal,2025-08-03,2025-08-14,,,160000
+L0521,2025-07-17,Partner Network,D01,Transport Infrastructure,SD01,Roads & Highways,E104,David Kim,Lead,,,,,135000
+L0522,2025-02-06,Email Campaign,D01,Transport Infrastructure,SD01,Roads & Highways,E103,Jack Nelson,Negotiation,2025-02-13,2025-02-27,2025-03-06,,45000
+L0523,2025-10-19,Tender Portal,D02,Water & Utilities,SD03,Water Networks,E113,Chloe Campbell,Lead,,,,,135000
+L0524,2025-08-30,Referral,D02,Water & Utilities,SD04,Treatment Plants,E116,Samuel Carter,Lead,,,,,45000
+L0525,2025-05-15,Email Campaign,D01,Transport Infrastructure,SD01,Roads & Highways,E102,Daniel Hall,Lead,,,,,45000
+L0526,2025-09-17,Email Campaign,D01,Transport Infrastructure,SD01,Roads & Highways,E101,Harper Carter,Proposal,2025-10-01,2025-10-18,,,110000
+L0527,2025-12-26,Partner Network,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Lead,,,,,110000
+L0528,2025-11-12,Referral,D03,Urban Development,SD05,Land Development,E124,Harper Baker,Lead,,,,,75000
+L0529,2025-09-19,Existing Client,D03,Urban Development,SD05,Land Development,E124,Harper Baker,Lost,2025-09-29,2025-10-13,2025-10-28,2025-11-20,60000
+L0530,2025-11-29,Existing Client,D02,Water & Utilities,SD03,Water Networks,E112,James Wright,Lead,,,,,90000
+L0531,2025-05-03,Referral,D03,Urban Development,SD05,Land Development,E125,Emily Allen,Lead,,,,,90000
+L0532,2025-08-21,Existing Client,D02,Water & Utilities,SD03,Water Networks,E113,Chloe Campbell,Lead,,,,,135000
+L0533,2025-12-03,Tender Portal,D03,Urban Development,SD05,Land Development,E124,Harper Baker,Lead,,,,,135000
+L0534,2025-12-26,Partner Network,D02,Water & Utilities,SD04,Treatment Plants,E116,Samuel Carter,Lead,,,,,75000
+L0535,2025-09-22,Existing Client,D01,Transport Infrastructure,SD02,Bridges & Structures,E108,Ella Scott,Lead,,,,,60000
+L0536,2025-05-18,Website,D01,Transport Infrastructure,SD02,Bridges & Structures,E106,Ella Nelson,Proposal,2025-05-25,2025-06-11,,,45000
+L0537,2025-09-26,Existing Client,D01,Transport Infrastructure,SD02,Bridges & Structures,E109,Sophia Hernandez,Lead,,,,,110000
+L0538,2025-02-09,Email Campaign,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Qualified,2025-02-11,,,,75000
+L0539,2025-10-18,Referral,D02,Water & Utilities,SD03,Water Networks,E111,Sebastian Lopez,Lead,,,,,75000
+L0540,2025-10-21,Referral,D03,Urban Development,SD06,Project Controls,E127,Zoe Hill,Lead,,,,,110000
+L0541,2025-01-23,Website,D01,Transport Infrastructure,SD01,Roads & Highways,E103,Jack Nelson,Lead,,,,,90000
+L0542,2025-07-16,Referral,D01,Transport Infrastructure,SD01,Roads & Highways,E103,Jack Nelson,Lead,,,,,160000
+L0543,2025-10-11,Email Campaign,D01,Transport Infrastructure,SD02,Bridges & Structures,E109,Sophia Hernandez,Lead,,,,,60000
+L0544,2025-06-13,Tender Portal,D01,Transport Infrastructure,SD02,Bridges & Structures,E108,Ella Scott,Negotiation,2025-06-20,2025-06-27,2025-07-01,,110000
+L0545,2025-04-25,Website,D02,Water & Utilities,SD03,Water Networks,E114,Ella Gonzalez,Lost,2025-04-28,2025-05-16,2025-05-28,2025-06-26,90000
+L0546,2025-06-17,Tender Portal,D01,Transport Infrastructure,SD01,Roads & Highways,E102,Daniel Hall,Qualified,2025-06-24,,,,45000
+L0547,2025-05-30,Website,D03,Urban Development,SD06,Project Controls,E128,Emily Adams,Negotiation,2025-06-10,2025-06-21,2025-07-08,,135000
+L0548,2025-10-30,Referral,D01,Transport Infrastructure,SD01,Roads & Highways,E104,David Kim,Lost,2025-11-04,2025-11-25,2025-12-05,2025-12-14,160000
+L0549,2025-07-29,Existing Client,D02,Water & Utilities,SD04,Treatment Plants,E119,Henry Taylor,Lead,,,,,75000
+L0550,2025-12-22,Tender Portal,D03,Urban Development,SD05,Land Development,E124,Harper Baker,Won,2026-01-05,2026-01-21,2026-02-02,2026-02-10,45000
+L0551,2025-08-03,Tender Portal,D02,Water & Utilities,SD04,Treatment Plants,E119,Henry Taylor,Won,2025-08-16,2025-08-28,2025-09-02,2025-09-08,60000
+L0552,2025-07-10,Email Campaign,D02,Water & Utilities,SD04,Treatment Plants,E116,Samuel Carter,Lost,2025-07-21,2025-07-28,2025-08-04,2025-08-29,45000
+L0553,2025-02-08,Tender Portal,D01,Transport Infrastructure,SD02,Bridges & Structures,E108,Ella Scott,Qualified,2025-02-20,,,,90000
+L0554,2025-05-02,Email Campaign,D03,Urban Development,SD05,Land Development,E121,Daniel Hernandez,Lead,,,,,75000
+L0555,2025-12-25,Tender Portal,D02,Water & Utilities,SD04,Treatment Plants,E116,Samuel Carter,Lead,,,,,75000
+L0556,2025-02-08,Partner Network,D02,Water & Utilities,SD03,Water Networks,E112,James Wright,Lead,,,,,160000
+L0557,2025-02-25,Email Campaign,D01,Transport Infrastructure,SD01,Roads & Highways,E103,Jack Nelson,Lead,,,,,90000
+L0558,2025-06-10,Tender Portal,D02,Water & Utilities,SD04,Treatment Plants,E119,Henry Taylor,Lead,,,,,75000
+L0559,2025-08-20,Referral,D01,Transport Infrastructure,SD02,Bridges & Structures,E110,James King,Qualified,2025-08-23,,,,160000
+L0560,2025-03-22,Website,D02,Water & Utilities,SD04,Treatment Plants,E117,Harper King,Negotiation,2025-04-02,2025-04-07,2025-04-16,,135000
+L0561,2025-03-17,Referral,D03,Urban Development,SD06,Project Controls,E129,Samuel Carter,Proposal,2025-03-25,2025-04-14,,,75000
+L0562,2025-12-13,Referral,D02,Water & Utilities,SD04,Treatment Plants,E117,Harper King,Lead,,,,,60000
+L0563,2025-07-27,Referral,D03,Urban Development,SD05,Land Development,E123,Sophia Hill,Qualified,2025-08-01,,,,110000
+L0564,2025-08-25,Tender Portal,D02,Water & Utilities,SD03,Water Networks,E115,Grace Young,Negotiation,2025-08-28,2025-09-01,2025-09-05,,60000
+L0565,2025-03-08,Referral,D01,Transport Infrastructure,SD02,Bridges & Structures,E109,Sophia Hernandez,Negotiation,2025-03-20,2025-03-26,2025-04-06,,75000
+L0566,2025-01-12,Email Campaign,D01,Transport Infrastructure,SD01,Roads & Highways,E102,Daniel Hall,Lead,,,,,135000
+L0567,2025-03-07,Email Campaign,D03,Urban Development,SD05,Land Development,E123,Sophia Hill,Won,2025-03-21,2025-04-04,2025-04-10,2025-04-16,160000
+L0568,2025-10-21,Existing Client,D03,Urban Development,SD06,Project Controls,E126,Benjamin Allen,Negotiation,2025-10-30,2025-11-03,2025-11-18,,90000
+L0569,2025-08-07,Website,D01,Transport Infrastructure,SD02,Bridges & Structures,E108,Ella Scott,Lead,,,,,60000
+L0570,2025-05-24,Email Campaign,D02,Water & Utilities,SD03,Water Networks,E112,James Wright,Negotiation,2025-06-04,2025-06-15,2025-06-27,,45000
+L0571,2025-07-30,Email Campaign,D03,Urban Development,SD05,Land Development,E122,Sebastian Hernandez,Qualified,2025-08-05,,,,45000
+L0572,2025-03-12,Partner Network,D03,Urban Development,SD05,Land Development,E124,Harper Baker,Lead,,,,,160000
+L0573,2025-05-08,Partner Network,D02,Water & Utilities,SD03,Water Networks,E115,Grace Young,Negotiation,2025-05-22,2025-06-06,2025-06-24,,90000
+L0574,2025-09-06,Referral,D01,Transport Infrastructure,SD02,Bridges & Structures,E110,James King,Won,2025-09-13,2025-09-29,2025-10-10,2025-10-20,110000
+L0575,2025-01-16,Partner Network,D01,Transport Infrastructure,SD01,Roads & Highways,E103,Jack Nelson,Lead,,,,,90000
+L0576,2025-07-03,Partner Network,D02,Water & Utilities,SD04,Treatment Plants,E116,Samuel Carter,Lost,2025-07-06,2025-07-17,2025-07-27,2025-08-09,60000
+L0577,2025-01-29,Website,D01,Transport Infrastructure,SD01,Roads & Highways,E104,David Kim,Qualified,2025-02-06,,,,160000
+L0578,2025-03-30,Existing Client,D01,Transport Infrastructure,SD02,Bridges & Structures,E108,Ella Scott,Lead,,,,,75000
+L0579,2025-12-24,Tender Portal,D02,Water & Utilities,SD03,Water Networks,E115,Grace Young,Won,2026-01-06,2026-01-21,2026-01-28,2026-02-20,45000
+L0580,2025-03-31,Tender Portal,D01,Transport Infrastructure,SD01,Roads & Highways,E105,Charlotte Campbell,Lead,,,,,45000
+L0581,2025-11-05,Referral,D01,Transport Infrastructure,SD02,Bridges & Structures,E109,Sophia Hernandez,Lead,,,,,90000
+L0582,2025-06-19,Referral,D01,Transport Infrastructure,SD01,Roads & Highways,E101,Harper Carter,Negotiation,2025-07-02,2025-07-11,2025-07-24,,75000

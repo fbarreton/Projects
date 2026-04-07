@@ -1,0 +1,62 @@
+{
+  "name": "Microsoft Clean Theme Fixed",
+  "dataColors": [
+    "#0078D4",
+    "#2B88D8",
+    "#71AFE5",
+    "#C7E0F4",
+    "#107C10",
+    "#FFB900",
+    "#D83B01",
+    "#5C2D91"
+  ],
+  "background": "#F9FAFB",
+  "foreground": "#1F2937",
+  "tableAccent": "#0078D4",
+  "good": "#107C10",
+  "neutral": "#FFB900",
+  "bad": "#D83B01",
+  "maximum": "#0078D4",
+  "center": "#71AFE5",
+  "minimum": "#C7E0F4",
+  "null": "#D1D5DB",
+  "firstLevelElements": "#111827",
+  "secondLevelElements": "#6B7280",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 14
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "categoryLabels": [
+          {
+            "show": true,
+            "fontSize": 11
+          }
+        ],
+        "labels": [
+          {
+            "fontSize": 22
+          }
+        ]
+      }
+    },
+    "slicer": {
+      "*": {
+        "items": [
+          {
+            "fontSize": 11
+          }
+        ]
+      }
+    }
+  }
+}
